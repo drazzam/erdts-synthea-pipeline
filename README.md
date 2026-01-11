@@ -1,7 +1,5 @@
 # ERDTS Synthea Data Pipeline
 
-[![Sync to Supabase](https://github.com/YOUR_USERNAME/erdts-synthea-pipeline/actions/workflows/sync-to-supabase.yml/badge.svg)](https://github.com/YOUR_USERNAME/erdts-synthea-pipeline/actions/workflows/sync-to-supabase.yml)
-
 A complete data pipeline for generating, transforming, and deploying synthetic patient data from [Synthea](https://github.com/synthetichealth/synthea) to power the **ERDTS (Evidance Research Database Training Simulator)** platform.
 
 ---
