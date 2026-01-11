@@ -1,0 +1,1984 @@
+[
+  {
+    "code": "8302-2",
+    "name": "Body Height",
+    "loincCode": "8302-2",
+    "category": "Vital Signs",
+    "unit": "cm"
+  },
+  {
+    "code": "72514-3",
+    "name": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+    "loincCode": "72514-3",
+    "category": "Vital Signs",
+    "unit": "{score}"
+  },
+  {
+    "code": "29463-7",
+    "name": "Body Weight",
+    "loincCode": "29463-7",
+    "category": "Vital Signs",
+    "unit": "kg"
+  },
+  {
+    "code": "39156-5",
+    "name": "Body mass index (BMI) [Ratio]",
+    "loincCode": "39156-5",
+    "category": "Vital Signs",
+    "unit": "kg/m2"
+  },
+  {
+    "code": "8462-4",
+    "name": "Diastolic Blood Pressure",
+    "loincCode": "8462-4",
+    "category": "Liver Function",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "8480-6",
+    "name": "Systolic Blood Pressure",
+    "loincCode": "8480-6",
+    "category": "Vital Signs",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "8867-4",
+    "name": "Heart rate",
+    "loincCode": "8867-4",
+    "category": "Vital Signs",
+    "unit": "/min"
+  },
+  {
+    "code": "9279-1",
+    "name": "Respiratory rate",
+    "loincCode": "9279-1",
+    "category": "Vital Signs",
+    "unit": "/min"
+  },
+  {
+    "code": "2093-3",
+    "name": "Cholesterol [Mass/volume] in Serum or Plasma",
+    "loincCode": "2093-3",
+    "category": "Lipid Panel",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2571-8",
+    "name": "Triglyceride [Mass/volume] in Serum or Plasma",
+    "loincCode": "2571-8",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normalLow": 0,
+    "normalHigh": 150
+  },
+  {
+    "code": "18262-6",
+    "name": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+    "loincCode": "18262-6",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normalLow": 0,
+    "normalHigh": 100
+  },
+  {
+    "code": "2085-9",
+    "name": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+    "loincCode": "2085-9",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normalLow": 40,
+    "normalHigh": 60
+  },
+  {
+    "code": "72166-2",
+    "name": "Tobacco smoking status",
+    "loincCode": "72166-2",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "76501-6",
+    "name": "Within the last year  have you been afraid of your partner or ex-partner",
+    "loincCode": "76501-6",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "93026-3",
+    "name": "Do you feel physically and emotionally safe where you currently live [PRAPARE]",
+    "loincCode": "93026-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93027-1",
+    "name": "Are you a refugee",
+    "loincCode": "93027-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93028-9",
+    "name": "Have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility in past 1 year [PRAPARE]",
+    "loincCode": "93028-9",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "93038-8",
+    "name": "Stress level",
+    "loincCode": "93038-8",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93029-7",
+    "name": "How often do you see or talk to people that you care about and feel close to [PRAPARE]",
+    "loincCode": "93029-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93030-5",
+    "name": "Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living",
+    "loincCode": "93030-5",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93031-3",
+    "name": "Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE]",
+    "loincCode": "93031-3",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "63586-2",
+    "name": "What was your best estimate of the total income of all family members from all sources  before taxes  in last year [PhenX]",
+    "loincCode": "63586-2",
+    "category": "Liver Function",
+    "unit": "/a"
+  },
+  {
+    "code": "76437-3",
+    "name": "Primary insurance",
+    "loincCode": "76437-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "67875-5",
+    "name": "Employment status - current",
+    "loincCode": "67875-5",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "82589-3",
+    "name": "Highest level of education",
+    "loincCode": "82589-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "56799-0",
+    "name": "Address",
+    "loincCode": "56799-0",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93033-9",
+    "name": "Are you worried about losing your housing [PRAPARE]",
+    "loincCode": "93033-9",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "71802-3",
+    "name": "Housing status",
+    "loincCode": "71802-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "63512-8",
+    "name": "How many people are living or staying at this address [#]",
+    "loincCode": "63512-8",
+    "category": "Other",
+    "unit": "{#}"
+  },
+  {
+    "code": "54899-0",
+    "name": "Preferred language",
+    "loincCode": "54899-0",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93034-7",
+    "name": "Discharged from the U.S. Armed Forces",
+    "loincCode": "93034-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "93035-4",
+    "name": "Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE]",
+    "loincCode": "93035-4",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "32624-9",
+    "name": "Race",
+    "loincCode": "32624-9",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "56051-6",
+    "name": "Hispanic or Latino",
+    "loincCode": "56051-6",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "70274-6",
+    "name": "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]",
+    "loincCode": "70274-6",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "55758-7",
+    "name": "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]",
+    "loincCode": "55758-7",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "75626-2",
+    "name": "Total score [AUDIT-C]",
+    "loincCode": "75626-2",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "8310-5",
+    "name": "Body temperature",
+    "loincCode": "8310-5",
+    "category": "Vital Signs",
+    "unit": "Cel"
+  },
+  {
+    "code": "4548-4",
+    "name": "Hemoglobin A1c/Hemoglobin.total in Blood",
+    "loincCode": "4548-4",
+    "category": "Glucose/Diabetes",
+    "unit": "%",
+    "normalLow": 4.0,
+    "normalHigh": 5.6
+  },
+  {
+    "code": "6690-2",
+    "name": "Leukocytes [#/volume] in Blood by Automated count",
+    "loincCode": "6690-2",
+    "category": "Hematology",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "789-8",
+    "name": "Erythrocytes [#/volume] in Blood by Automated count",
+    "loincCode": "789-8",
+    "category": "Hematology",
+    "unit": "10*6/uL"
+  },
+  {
+    "code": "2339-0",
+    "name": "Glucose [Mass/volume] in Blood",
+    "loincCode": "2339-0",
+    "category": "Glucose/Diabetes",
+    "unit": "mg/dL",
+    "normalLow": 70,
+    "normalHigh": 100,
+    "criticalLow": 50,
+    "criticalHigh": 400
+  },
+  {
+    "code": "718-7",
+    "name": "Hemoglobin [Mass/volume] in Blood",
+    "loincCode": "718-7",
+    "category": "Hematology",
+    "unit": "g/dL",
+    "normalLow": 12,
+    "normalHigh": 17.5
+  },
+  {
+    "code": "6299-2",
+    "name": "Urea nitrogen [Mass/volume] in Blood",
+    "loincCode": "6299-2",
+    "category": "Kidney Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "4544-3",
+    "name": "Hematocrit [Volume Fraction] of Blood by Automated count",
+    "loincCode": "4544-3",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "38483-4",
+    "name": "Creatinine [Mass/volume] in Blood",
+    "loincCode": "38483-4",
+    "category": "Kidney Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "49765-1",
+    "name": "Calcium [Mass/volume] in Blood",
+    "loincCode": "49765-1",
+    "category": "Electrolytes",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2947-0",
+    "name": "Sodium [Moles/volume] in Blood",
+    "loincCode": "2947-0",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "normalLow": 136,
+    "normalHigh": 145
+  },
+  {
+    "code": "6298-4",
+    "name": "Potassium [Moles/volume] in Blood",
+    "loincCode": "6298-4",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "normalLow": 3.5,
+    "normalHigh": 5.0,
+    "criticalLow": 2.5,
+    "criticalHigh": 6.5
+  },
+  {
+    "code": "2069-3",
+    "name": "Chloride [Moles/volume] in Blood",
+    "loincCode": "2069-3",
+    "category": "Electrolytes",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "20565-8",
+    "name": "Carbon dioxide  total [Moles/volume] in Blood",
+    "loincCode": "20565-8",
+    "category": "Other",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "787-2",
+    "name": "MCV [Entitic mean volume] in Red Blood Cells by Automated count",
+    "loincCode": "787-2",
+    "category": "Hematology",
+    "unit": "fL"
+  },
+  {
+    "code": "785-6",
+    "name": "MCH [Entitic mass] by Automated count",
+    "loincCode": "785-6",
+    "category": "Hematology",
+    "unit": "pg"
+  },
+  {
+    "code": "786-4",
+    "name": "MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count",
+    "loincCode": "786-4",
+    "category": "Hematology",
+    "unit": "g/dL"
+  },
+  {
+    "code": "788-0",
+    "name": "Erythrocyte [DistWidth] in Blood by Automated count",
+    "loincCode": "788-0",
+    "category": "Hematology",
+    "unit": "fL"
+  },
+  {
+    "code": "777-3",
+    "name": "Platelets [#/volume] in Blood by Automated count",
+    "loincCode": "777-3",
+    "category": "Hematology",
+    "unit": "10*3/uL",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "32207-3",
+    "name": "Platelet distribution width [Entitic volume] in Blood by Automated count",
+    "loincCode": "32207-3",
+    "category": "Hematology",
+    "unit": "fL",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "32623-1",
+    "name": "Platelet [Entitic mean volume] in Blood by Automated count",
+    "loincCode": "32623-1",
+    "category": "Hematology",
+    "unit": "fL",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "76504-0",
+    "name": "Total score [HARK]",
+    "loincCode": "76504-0",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "82667-7",
+    "name": "Total score [DAST-10]",
+    "loincCode": "82667-7",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "2345-7",
+    "name": "Glucose [Mass/volume] in Serum or Plasma",
+    "loincCode": "2345-7",
+    "category": "Glucose/Diabetes",
+    "unit": "mg/dL",
+    "normalLow": 70,
+    "normalHigh": 100,
+    "criticalLow": 50,
+    "criticalHigh": 400
+  },
+  {
+    "code": "3094-0",
+    "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+    "loincCode": "3094-0",
+    "category": "Kidney Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2160-0",
+    "name": "Creatinine [Mass/volume] in Serum or Plasma",
+    "loincCode": "2160-0",
+    "category": "Kidney Function",
+    "unit": "mg/dL",
+    "normalLow": 0.7,
+    "normalHigh": 1.3
+  },
+  {
+    "code": "17861-6",
+    "name": "Calcium [Mass/volume] in Serum or Plasma",
+    "loincCode": "17861-6",
+    "category": "Electrolytes",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2951-2",
+    "name": "Sodium [Moles/volume] in Serum or Plasma",
+    "loincCode": "2951-2",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "normalLow": 136,
+    "normalHigh": 145
+  },
+  {
+    "code": "2823-3",
+    "name": "Potassium [Moles/volume] in Serum or Plasma",
+    "loincCode": "2823-3",
+    "category": "Electrolytes",
+    "unit": "mmol/L",
+    "normalLow": 3.5,
+    "normalHigh": 5.0,
+    "criticalLow": 2.5,
+    "criticalHigh": 6.5
+  },
+  {
+    "code": "2075-0",
+    "name": "Chloride [Moles/volume] in Serum or Plasma",
+    "loincCode": "2075-0",
+    "category": "Electrolytes",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "2028-9",
+    "name": "Carbon dioxide  total [Moles/volume] in Serum or Plasma",
+    "loincCode": "2028-9",
+    "category": "Other",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "33914-3",
+    "name": "Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M",
+    "loincCode": "33914-3",
+    "category": "Kidney Function",
+    "unit": "mL/min/{1.73_m2}",
+    "normalLow": 0.7,
+    "normalHigh": 1.3
+  },
+  {
+    "code": "5767-9",
+    "name": "Appearance of Urine",
+    "loincCode": "5767-9",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "34533-0",
+    "name": "Odor of Urine",
+    "loincCode": "34533-0",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "32167-9",
+    "name": "Clarity of Urine",
+    "loincCode": "32167-9",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5778-6",
+    "name": "Color of Urine",
+    "loincCode": "5778-6",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5792-7",
+    "name": "Glucose [Mass/volume] in Urine by Test strip",
+    "loincCode": "5792-7",
+    "category": "Glucose/Diabetes",
+    "unit": "mg/dL",
+    "normalLow": 70,
+    "normalHigh": 100,
+    "criticalLow": 50,
+    "criticalHigh": 400
+  },
+  {
+    "code": "25428-4",
+    "name": "Glucose [Presence] in Urine by Test strip",
+    "loincCode": "25428-4",
+    "category": "Glucose/Diabetes",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "20505-4",
+    "name": "Bilirubin.total [Mass/volume] in Urine by Test strip",
+    "loincCode": "20505-4",
+    "category": "Liver Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "5770-3",
+    "name": "Bilirubin.total [Presence] in Urine by Test strip",
+    "loincCode": "5770-3",
+    "category": "Liver Function",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5797-6",
+    "name": "Ketones [Mass/volume] in Urine by Test strip",
+    "loincCode": "5797-6",
+    "category": "Urinalysis",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2514-8",
+    "name": "Ketones [Presence] in Urine by Test strip",
+    "loincCode": "2514-8",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5811-5",
+    "name": "Specific gravity of Urine by Test strip",
+    "loincCode": "5811-5",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5803-2",
+    "name": "pH of Urine by Test strip",
+    "loincCode": "5803-2",
+    "category": "Urinalysis",
+    "unit": "pH"
+  },
+  {
+    "code": "5804-0",
+    "name": "Protein [Mass/volume] in Urine by Test strip",
+    "loincCode": "5804-0",
+    "category": "Urinalysis",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "20454-5",
+    "name": "Protein [Presence] in Urine by Test strip",
+    "loincCode": "20454-5",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5802-4",
+    "name": "Nitrite [Presence] in Urine by Test strip",
+    "loincCode": "5802-4",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5794-3",
+    "name": "Hemoglobin [Presence] in Urine by Test strip",
+    "loincCode": "5794-3",
+    "category": "Hematology",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5799-2",
+    "name": "Leukocyte esterase [Presence] in Urine by Test strip",
+    "loincCode": "5799-2",
+    "category": "Hematology",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "91146-1",
+    "name": "What number best describes how pain has interfered with your general activity during the past week",
+    "loincCode": "91146-1",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "91145-3",
+    "name": "What number best describes how pain has interfered with your enjoyment of life during the past week",
+    "loincCode": "91145-3",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "75893-8",
+    "name": "Pain severity in the past week - 0-10 numeric rating [Reported]",
+    "loincCode": "75893-8",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "65750-2",
+    "name": "Drugs of abuse 5 panel - Urine by Screen method",
+    "loincCode": "65750-2",
+    "category": "Urinalysis",
+    "unit": ""
+  },
+  {
+    "code": "38208-5",
+    "name": "Pain severity - Reported",
+    "loincCode": "38208-5",
+    "category": "Vital Signs",
+    "unit": "{score}"
+  },
+  {
+    "code": "X9999-2",
+    "name": "Priority Level",
+    "loincCode": "X9999-2",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "X9999-1",
+    "name": "Operative Status Value",
+    "loincCode": "X9999-1",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "2885-2",
+    "name": "Protein [Mass/volume] in Serum or Plasma",
+    "loincCode": "2885-2",
+    "category": "Other",
+    "unit": "g/dL"
+  },
+  {
+    "code": "1751-7",
+    "name": "Albumin [Mass/volume] in Serum or Plasma",
+    "loincCode": "1751-7",
+    "category": "Other",
+    "unit": "g/dL"
+  },
+  {
+    "code": "1975-2",
+    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+    "loincCode": "1975-2",
+    "category": "Liver Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "6768-6",
+    "name": "Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma",
+    "loincCode": "6768-6",
+    "category": "Liver Function",
+    "unit": "U/L"
+  },
+  {
+    "code": "1742-6",
+    "name": "Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+    "loincCode": "1742-6",
+    "category": "Other",
+    "unit": "U/L"
+  },
+  {
+    "code": "1920-8",
+    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+    "loincCode": "1920-8",
+    "category": "Other",
+    "unit": "U/L"
+  },
+  {
+    "code": "19123-9",
+    "name": "Magnesium [Mass/volume] in Serum or Plasma",
+    "loincCode": "19123-9",
+    "category": "Electrolytes",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "2777-1",
+    "name": "Phosphate [Mass/volume] in Serum or Plasma",
+    "loincCode": "2777-1",
+    "category": "Electrolytes",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "5902-2",
+    "name": "Prothrombin time (PT)",
+    "loincCode": "5902-2",
+    "category": "Cardiac/Coagulation",
+    "unit": "s"
+  },
+  {
+    "code": "6301-6",
+    "name": "INR in Platelet poor plasma by Coagulation assay",
+    "loincCode": "6301-6",
+    "category": "Hematology",
+    "unit": "{INR}",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "3173-2",
+    "name": "aPTT in Blood by Coagulation assay",
+    "loincCode": "3173-2",
+    "category": "Cardiac/Coagulation",
+    "unit": "s"
+  },
+  {
+    "code": "2744-1",
+    "name": "pH of Arterial blood",
+    "loincCode": "2744-1",
+    "category": "Other",
+    "unit": "[pH]"
+  },
+  {
+    "code": "2019-8",
+    "name": "Carbon dioxide [Partial pressure] in Arterial blood",
+    "loincCode": "2019-8",
+    "category": "Other",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "2703-7",
+    "name": "Oxygen [Partial pressure] in Arterial blood",
+    "loincCode": "2703-7",
+    "category": "Vital Signs",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "1960-4",
+    "name": "Bicarbonate [Moles/volume] in Arterial blood",
+    "loincCode": "1960-4",
+    "category": "Electrolytes",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "2708-6",
+    "name": "Oxygen saturation in Arterial blood",
+    "loincCode": "2708-6",
+    "category": "Vital Signs",
+    "unit": "%"
+  },
+  {
+    "code": "89579-7",
+    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
+    "loincCode": "89579-7",
+    "category": "Cardiac/Coagulation",
+    "unit": "pg/mL"
+  },
+  {
+    "code": "3016-3",
+    "name": "Thyrotropin [Units/volume] in Serum or Plasma",
+    "loincCode": "3016-3",
+    "category": "Other",
+    "unit": "m[IU]/L"
+  },
+  {
+    "code": "10230-1",
+    "name": "Left ventricular Ejection fraction",
+    "loincCode": "10230-1",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "3184-9",
+    "name": "Activated clotting time (ACT) of Blood by Coagulation assay",
+    "loincCode": "3184-9",
+    "category": "Other",
+    "unit": "s"
+  },
+  {
+    "code": "2746-6",
+    "name": "pH of Venous blood",
+    "loincCode": "2746-6",
+    "category": "Other",
+    "unit": "[pH]"
+  },
+  {
+    "code": "2021-4",
+    "name": "Carbon dioxide [Partial pressure] in Venous blood",
+    "loincCode": "2021-4",
+    "category": "Other",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "2705-2",
+    "name": "Oxygen [Partial pressure] in Venous blood",
+    "loincCode": "2705-2",
+    "category": "Vital Signs",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "14627-4",
+    "name": "Bicarbonate [Moles/volume] in Venous blood",
+    "loincCode": "14627-4",
+    "category": "Electrolytes",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "2027-1",
+    "name": "Carbon dioxide  total [Moles/volume] in Venous blood",
+    "loincCode": "2027-1",
+    "category": "Other",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "29554-3",
+    "name": "Procedure Narrative",
+    "loincCode": "29554-3",
+    "category": "Other",
+    "unit": "{#}"
+  },
+  {
+    "code": "QALY",
+    "name": "QALY",
+    "loincCode": "QALY",
+    "category": "Other",
+    "unit": "a"
+  },
+  {
+    "code": "DALY",
+    "name": "DALY",
+    "loincCode": "DALY",
+    "category": "Other",
+    "unit": "a"
+  },
+  {
+    "code": "QOLS",
+    "name": "QOLS",
+    "loincCode": "QOLS",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "59576-9",
+    "name": "Body mass index (BMI) [Percentile] Per age and sex",
+    "loincCode": "59576-9",
+    "category": "Vital Signs",
+    "unit": "%"
+  },
+  {
+    "code": "89204-2",
+    "name": "Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]",
+    "loincCode": "89204-2",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "82810-3",
+    "name": "Pregnancy status",
+    "loincCode": "82810-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "2106-3",
+    "name": "Choriogonadotropin [Presence] in Urine",
+    "loincCode": "2106-3",
+    "category": "Urinalysis",
+    "unit": ""
+  },
+  {
+    "code": "5821-4",
+    "name": "Leukocytes [#/area] in Urine sediment by Microscopy high power field",
+    "loincCode": "5821-4",
+    "category": "Hematology",
+    "unit": "/[HPF]"
+  },
+  {
+    "code": "13945-1",
+    "name": "Erythrocytes [#/area] in Urine sediment by Microscopy high power field",
+    "loincCode": "13945-1",
+    "category": "Hematology",
+    "unit": "/[HPF]"
+  },
+  {
+    "code": "5787-7",
+    "name": "Epithelial cells [#/area] in Urine sediment by Microscopy high power field",
+    "loincCode": "5787-7",
+    "category": "Urinalysis",
+    "unit": "/[HPF]"
+  },
+  {
+    "code": "24124-0",
+    "name": "Casts [Presence] in Urine sediment by Light microscopy",
+    "loincCode": "24124-0",
+    "category": "Liver Function",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "8247-9",
+    "name": "Mucus [Presence] in Urine sediment by Light microscopy",
+    "loincCode": "8247-9",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "5769-5",
+    "name": "Bacteria [#/area] in Urine sediment by Microscopy high power field",
+    "loincCode": "5769-5",
+    "category": "Urinalysis",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "630-4",
+    "name": "Bacteria identified in Urine by Culture",
+    "loincCode": "630-4",
+    "category": "Urinalysis",
+    "unit": ""
+  },
+  {
+    "code": "59460-6",
+    "name": "Fall risk total [Morse Fall Scale]",
+    "loincCode": "59460-6",
+    "category": "Other",
+    "unit": "{#}"
+  },
+  {
+    "code": "59461-4",
+    "name": "Fall risk level [Morse Fall Scale]",
+    "loincCode": "59461-4",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "20570-8",
+    "name": "Hematocrit [Volume Fraction] of Blood by calculation",
+    "loincCode": "20570-8",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "80382-5",
+    "name": "Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay",
+    "loincCode": "80382-5",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "80383-3",
+    "name": "Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay",
+    "loincCode": "80383-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "94531-1",
+    "name": "SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection",
+    "loincCode": "94531-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "44261-6",
+    "name": "Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]",
+    "loincCode": "44261-6",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "10834-0",
+    "name": "Globulin [Mass/volume] in Serum by calculation",
+    "loincCode": "10834-0",
+    "category": "Other",
+    "unit": "g/L"
+  },
+  {
+    "code": "33756-8",
+    "name": "Polyp size greatest dimension",
+    "loincCode": "33756-8",
+    "category": "Other",
+    "unit": "mm"
+  },
+  {
+    "code": "57905-2",
+    "name": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen",
+    "loincCode": "57905-2",
+    "category": "Liver Function",
+    "unit": "ng/mL"
+  },
+  {
+    "code": "75325-1",
+    "name": "Symptom",
+    "loincCode": "75325-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "33762-6",
+    "name": "Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma",
+    "loincCode": "33762-6",
+    "category": "Other",
+    "unit": "pg/mL"
+  },
+  {
+    "code": "2276-4",
+    "name": "Ferritin [Mass/volume] in Serum or Plasma",
+    "loincCode": "2276-4",
+    "category": "Other",
+    "unit": "ug/L"
+  },
+  {
+    "code": "2498-4",
+    "name": "Iron [Mass/volume] in Serum or Plasma",
+    "loincCode": "2498-4",
+    "category": "Other",
+    "unit": "ug/dL"
+  },
+  {
+    "code": "2500-7",
+    "name": "Iron binding capacity [Mass/volume] in Serum or Plasma",
+    "loincCode": "2500-7",
+    "category": "Other",
+    "unit": "ug/dL"
+  },
+  {
+    "code": "2502-3",
+    "name": "Iron saturation [Mass Fraction] in Serum or Plasma",
+    "loincCode": "2502-3",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "88020-3",
+    "name": "Functional capacity NYHA",
+    "loincCode": "88020-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "88021-1",
+    "name": "Objective assessment of cardiovascular disease NYHA",
+    "loincCode": "88021-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "69453-9",
+    "name": "Cause of Death [US Standard Certificate of Death]",
+    "loincCode": "69453-9",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "413077008",
+    "name": "LogMAR visual acuity left eye (observable entity)",
+    "loincCode": "413077008",
+    "category": "Other",
+    "unit": "{logmar}"
+  },
+  {
+    "code": "413078003",
+    "name": "LogMAR visual acuity right eye (observable entity)",
+    "loincCode": "413078003",
+    "category": "Other",
+    "unit": "{logmar}"
+  },
+  {
+    "code": "79893-4",
+    "name": "Left eye Intraocular pressure",
+    "loincCode": "79893-4",
+    "category": "Other",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "79892-6",
+    "name": "Right eye Intraocular pressure",
+    "loincCode": "79892-6",
+    "category": "Other",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "71490-7",
+    "name": "Left eye Diabetic retinopathy severity level by Ophthalmoscopy",
+    "loincCode": "71490-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "71491-5",
+    "name": "Right eye Diabetic retinopathy severity level by Ophthalmoscopy",
+    "loincCode": "71491-5",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "14959-1",
+    "name": "Microalbumin/Creatinine [Mass Ratio] in Urine",
+    "loincCode": "14959-1",
+    "category": "Kidney Function",
+    "unit": "mg/g"
+  },
+  {
+    "code": "79819-9",
+    "name": "Study observation Left retina by OCT",
+    "loincCode": "79819-9",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "79818-1",
+    "name": "Study observation Right retina by OCT",
+    "loincCode": "79818-1",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "92142-9",
+    "name": "Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92142-9",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92141-1",
+    "name": "Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92141-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92131-2",
+    "name": "Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92131-2",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92140-3",
+    "name": "Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92140-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92139-5",
+    "name": "Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92139-5",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92138-7",
+    "name": "Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92138-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92130-4",
+    "name": "Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92130-4",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "92134-6",
+    "name": "Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "92134-6",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "94040-3",
+    "name": "Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection",
+    "loincCode": "94040-3",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "77606-2",
+    "name": "Weight-for-length Per age and sex",
+    "loincCode": "77606-2",
+    "category": "Vital Signs",
+    "unit": "%"
+  },
+  {
+    "code": "8289-1",
+    "name": "Head Occipital-frontal circumference Percentile",
+    "loincCode": "8289-1",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "9843-4",
+    "name": "Head Occipital-frontal circumference",
+    "loincCode": "9843-4",
+    "category": "Other",
+    "unit": "cm"
+  },
+  {
+    "code": "38265-5",
+    "name": "DXA Radius and Ulna [T-score] Bone density",
+    "loincCode": "38265-5",
+    "category": "Other",
+    "unit": "{T-score}"
+  },
+  {
+    "code": "32465-7",
+    "name": "Physical findings of Prostate",
+    "loincCode": "32465-7",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "2857-1",
+    "name": "Prostate specific Ag [Mass/volume] in Serum or Plasma",
+    "loincCode": "2857-1",
+    "category": "Other",
+    "unit": "ng/mL"
+  },
+  {
+    "code": "46288-7",
+    "name": "US Guidance for biopsy of Prostate",
+    "loincCode": "46288-7",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "74006-8",
+    "name": "Weight difference [Mass difference] --pre dialysis - post dialysis",
+    "loincCode": "74006-8",
+    "category": "Vital Signs",
+    "unit": "kg"
+  },
+  {
+    "code": "19926-5",
+    "name": "FEV1/FVC",
+    "loincCode": "19926-5",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "75636-1",
+    "name": "Emergency severity index [ESI]",
+    "loincCode": "75636-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "6206-7",
+    "name": "Peanut IgE Ab [Units/volume] in Serum",
+    "loincCode": "6206-7",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6273-7",
+    "name": "Walnut IgE Ab [Units/volume] in Serum",
+    "loincCode": "6273-7",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6082-2",
+    "name": "Codfish IgE Ab [Units/volume] in Serum",
+    "loincCode": "6082-2",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6246-3",
+    "name": "Shrimp IgE Ab [Units/volume] in Serum",
+    "loincCode": "6246-3",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6276-0",
+    "name": "Wheat IgE Ab [Units/volume] in Serum",
+    "loincCode": "6276-0",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6106-9",
+    "name": "Egg white IgE Ab [Units/volume] in Serum",
+    "loincCode": "6106-9",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6248-9",
+    "name": "Soybean IgE Ab [Units/volume] in Serum",
+    "loincCode": "6248-9",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "7258-7",
+    "name": "Cow milk IgE Ab [Units/volume] in Serum",
+    "loincCode": "7258-7",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6189-5",
+    "name": "White oak IgE Ab [Units/volume] in Serum",
+    "loincCode": "6189-5",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6085-5",
+    "name": "Common Ragweed IgE Ab [Units/volume] in Serum",
+    "loincCode": "6085-5",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6833-8",
+    "name": "Cat dander IgE Ab [Units/volume] in Serum",
+    "loincCode": "6833-8",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6095-4",
+    "name": "American house dust mite IgE Ab [Units/volume] in Serum",
+    "loincCode": "6095-4",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6075-6",
+    "name": "Cladosporium herbarum IgE Ab [Units/volume] in Serum",
+    "loincCode": "6075-6",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6844-5",
+    "name": "Honey bee IgE Ab [Units/volume] in Serum",
+    "loincCode": "6844-5",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "6158-0",
+    "name": "Latex IgE Ab [Units/volume] in Serum",
+    "loincCode": "6158-0",
+    "category": "Allergy",
+    "unit": "kU/L"
+  },
+  {
+    "code": "66519-0",
+    "name": "Percentage area affected by eczema Head and Neck [PhenX]",
+    "loincCode": "66519-0",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "66529-9",
+    "name": "Percentage area affected by eczema Trunk [PhenX]",
+    "loincCode": "66529-9",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "66524-0",
+    "name": "Percentage area affected by eczema Upper extremity - bilateral [PhenX]",
+    "loincCode": "66524-0",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "66534-9",
+    "name": "Percentage area affected by eczema Lower extremity - bilateral [PhenX]",
+    "loincCode": "66534-9",
+    "category": "Other",
+    "unit": "%"
+  },
+  {
+    "code": "44667-4",
+    "name": "Site of distant metastasis in Breast tumor",
+    "loincCode": "44667-4",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "21907-1",
+    "name": "Distant metastases.clinical [Class] Cancer",
+    "loincCode": "21907-1",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "33728-7",
+    "name": "Size.maximum dimension in Tumor",
+    "loincCode": "33728-7",
+    "category": "Tumor Markers",
+    "unit": "cm"
+  },
+  {
+    "code": "21905-5",
+    "name": "Primary tumor.clinical [Class] Cancer",
+    "loincCode": "21905-5",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "85344-0",
+    "name": "Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy",
+    "loincCode": "85344-0",
+    "category": "Liver Function",
+    "unit": "{#}"
+  },
+  {
+    "code": "21906-3",
+    "name": "Regional lymph nodes.clinical [Class] Cancer",
+    "loincCode": "21906-3",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "85319-2",
+    "name": "HER2 [Presence] in Breast cancer specimen by Immune stain",
+    "loincCode": "85319-2",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "85318-4",
+    "name": "ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH",
+    "loincCode": "85318-4",
+    "category": "Liver Function",
+    "unit": "ratio"
+  },
+  {
+    "code": "85337-4",
+    "name": "Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain",
+    "loincCode": "85337-4",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "85339-0",
+    "name": "Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain",
+    "loincCode": "85339-0",
+    "category": "Liver Function",
+    "unit": ""
+  },
+  {
+    "code": "21908-9",
+    "name": "Stage group.clinical Cancer",
+    "loincCode": "21908-9",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "21377-7",
+    "name": "Magnesium [Mass/volume] in Blood",
+    "loincCode": "21377-7",
+    "category": "Electrolytes",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "71425-3",
+    "name": "Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay",
+    "loincCode": "71425-3",
+    "category": "Other",
+    "unit": "pg/mL"
+  },
+  {
+    "code": "59557-9",
+    "name": "Treatment status Cancer",
+    "loincCode": "59557-9",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "88040-1",
+    "name": "Response to cancer treatment",
+    "loincCode": "88040-1",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "85343-2",
+    "name": "Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy",
+    "loincCode": "85343-2",
+    "category": "Liver Function",
+    "unit": "{#}"
+  },
+  {
+    "code": "10480-2",
+    "name": "Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain",
+    "loincCode": "10480-2",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "770-8",
+    "name": "Neutrophils/Leukocytes in Blood by Automated count",
+    "loincCode": "770-8",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "736-9",
+    "name": "Lymphocytes/Leukocytes in Blood by Automated count",
+    "loincCode": "736-9",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "5905-5",
+    "name": "Monocytes/Leukocytes in Blood by Automated count",
+    "loincCode": "5905-5",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "713-8",
+    "name": "Eosinophils/Leukocytes in Blood by Automated count",
+    "loincCode": "713-8",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "706-2",
+    "name": "Basophils/Leukocytes in Blood by Automated count",
+    "loincCode": "706-2",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "751-8",
+    "name": "Neutrophils [#/volume] in Blood by Automated count",
+    "loincCode": "751-8",
+    "category": "Other",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "731-0",
+    "name": "Lymphocytes [#/volume] in Blood by Automated count",
+    "loincCode": "731-0",
+    "category": "Other",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "742-7",
+    "name": "Monocytes [#/volume] in Blood by Automated count",
+    "loincCode": "742-7",
+    "category": "Other",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "711-2",
+    "name": "Eosinophils [#/volume] in Blood by Automated count",
+    "loincCode": "711-2",
+    "category": "Other",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "704-7",
+    "name": "Basophils [#/volume] in Blood by Automated count",
+    "loincCode": "704-7",
+    "category": "Other",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "48065-7",
+    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
+    "loincCode": "48065-7",
+    "category": "Hematology",
+    "unit": "ug/mL",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "14804-9",
+    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
+    "loincCode": "14804-9",
+    "category": "Other",
+    "unit": "U/L"
+  },
+  {
+    "code": "2157-6",
+    "name": "Creatine kinase [Enzymatic activity/volume] in Serum or Plasma",
+    "loincCode": "2157-6",
+    "category": "Other",
+    "unit": "U/L"
+  },
+  {
+    "code": "1988-5",
+    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
+    "loincCode": "1988-5",
+    "category": "Other",
+    "unit": "mg/L"
+  },
+  {
+    "code": "33959-8",
+    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
+    "loincCode": "33959-8",
+    "category": "Other",
+    "unit": "ng/mL"
+  },
+  {
+    "code": "72106-8",
+    "name": "Total score [MMSE]",
+    "loincCode": "72106-8",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "7917-8",
+    "name": "HIV 1 Ab [Presence] in Serum",
+    "loincCode": "7917-8",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "20447-9",
+    "name": "HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+    "loincCode": "20447-9",
+    "category": "Other",
+    "unit": "{copies}/mL"
+  },
+  {
+    "code": "24467-3",
+    "name": "CD3+CD4+ (T4 helper) cells [#/volume] in Blood",
+    "loincCode": "24467-3",
+    "category": "Thyroid",
+    "unit": "/uL"
+  },
+  {
+    "code": "71970-8",
+    "name": "PROMIS-10 Global Mental Health (GMH) score",
+    "loincCode": "71970-8",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "71972-4",
+    "name": "PROMIS-10 Global Physical Health (GPH) score",
+    "loincCode": "71972-4",
+    "category": "Liver Function",
+    "unit": "{score}"
+  },
+  {
+    "code": "76690-7",
+    "name": "Sexual orientation",
+    "loincCode": "76690-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "55277-8",
+    "name": "HIV status",
+    "loincCode": "55277-8",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "28245-9",
+    "name": "Abuse Status [OMAHA]",
+    "loincCode": "28245-9",
+    "category": "Other",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "63513-6",
+    "name": "Are you covered by health insurance or some other kind of health care plan [PhenX]",
+    "loincCode": "63513-6",
+    "category": "Liver Function",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "46240-8",
+    "name": "History of Hospitalizations+Outpatient visits Narrative",
+    "loincCode": "46240-8",
+    "category": "Other",
+    "unit": "{count}"
+  },
+  {
+    "code": "88262-1",
+    "name": "Gram positive blood culture panel by Probe in Positive blood culture",
+    "loincCode": "88262-1",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "44963-7",
+    "name": "Capillary refill [Time] of Nail bed",
+    "loincCode": "44963-7",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "32693-4",
+    "name": "Lactate [Moles/volume] in Blood",
+    "loincCode": "32693-4",
+    "category": "Other",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "8478-0",
+    "name": "Mean blood pressure",
+    "loincCode": "8478-0",
+    "category": "Vital Signs",
+    "unit": "mm[Hg]"
+  },
+  {
+    "code": "85352-3",
+    "name": "Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy",
+    "loincCode": "85352-3",
+    "category": "Tumor Markers",
+    "unit": "{#}"
+  },
+  {
+    "code": "19994-3",
+    "name": "Oxygen/Total gas setting [Volume Fraction] Ventilator",
+    "loincCode": "19994-3",
+    "category": "Vital Signs",
+    "unit": "%"
+  },
+  {
+    "code": "86924-8",
+    "name": "Overall summary score [KCCQ-12]",
+    "loincCode": "86924-8",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "75443-2",
+    "name": "Mental health Outpatient Note",
+    "loincCode": "75443-2",
+    "category": "Liver Function",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "84215-3",
+    "name": "Mental health Telehealth Note",
+    "loincCode": "84215-3",
+    "category": "Liver Function",
+    "unit": "{nominal}"
+  },
+  {
+    "code": "3024-7",
+    "name": "Thyroxine (T4) free [Mass/volume] in Serum or Plasma",
+    "loincCode": "3024-7",
+    "category": "Thyroid",
+    "unit": "ng/dl"
+  },
+  {
+    "code": "26464-8",
+    "name": "Leukocytes [#/volume] in Blood",
+    "loincCode": "26464-8",
+    "category": "Hematology",
+    "unit": "10*3/uL"
+  },
+  {
+    "code": "26453-1",
+    "name": "Erythrocytes [#/volume] in Blood",
+    "loincCode": "26453-1",
+    "category": "Hematology",
+    "unit": "10*6/uL"
+  },
+  {
+    "code": "30428-7",
+    "name": "MCV [Entitic mean volume] in Red Blood Cells",
+    "loincCode": "30428-7",
+    "category": "Hematology",
+    "unit": "fL"
+  },
+  {
+    "code": "30385-9",
+    "name": "Erythrocyte [DistWidth] in Blood",
+    "loincCode": "30385-9",
+    "category": "Hematology",
+    "unit": "%"
+  },
+  {
+    "code": "26515-7",
+    "name": "Platelets [#/volume] in Blood",
+    "loincCode": "26515-7",
+    "category": "Hematology",
+    "unit": "K/uL",
+    "normalLow": 150000,
+    "normalHigh": 400000
+  },
+  {
+    "code": "42719-5",
+    "name": "Bilirubin.total [Mass/volume] in Blood",
+    "loincCode": "42719-5",
+    "category": "Liver Function",
+    "unit": "mg/dL"
+  },
+  {
+    "code": "33037-3",
+    "name": "Anion gap in Serum or Plasma by calculation",
+    "loincCode": "33037-3",
+    "category": "Other",
+    "unit": "mmol/L"
+  },
+  {
+    "code": "80271-0",
+    "name": "Physical findings of Abdomen by Palpation",
+    "loincCode": "80271-0",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "99999-11",
+    "name": "Withdrawal * as manifested by either of the following: a) Characteristic opioid withdrawal syndrome b) Same (or a closely related) substance is taken ",
+    "loincCode": "99999-11",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-10",
+    "name": "Tolerance as defined by either of the following: a) Need for markedly increased amounts of opioids to achieve intoxication or desired effect b) Marked",
+    "loincCode": "99999-10",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-9",
+    "name": "Continued use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbate",
+    "loincCode": "99999-9",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-8",
+    "name": "Recurrent opioid use in situations in which it is physically hazardous",
+    "loincCode": "99999-8",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-7",
+    "name": "Important social  occupational  or recreational activities are given up or reduced because of opioid use",
+    "loincCode": "99999-7",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-6",
+    "name": "Continued opioid use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of opioids",
+    "loincCode": "99999-6",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-5",
+    "name": "Recurrent opioid use resulting in a failure to fulfill major role obligations at work  school  or home",
+    "loincCode": "99999-5",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-4",
+    "name": "Craving or a strong desire to use opioids",
+    "loincCode": "99999-4",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-3",
+    "name": "A great deal of time is spent in activities necessary to obtain the opioid  use the opioid  or recover from its effects",
+    "loincCode": "99999-3",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-2",
+    "name": "There is a persistent desire or unsuccessful efforts to cut down or control opioid use",
+    "loincCode": "99999-2",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "99999-1",
+    "name": "Opioids are often taken in larger amounts or over a longer period than was intended",
+    "loincCode": "99999-1",
+    "category": "Other",
+    "unit": "{score}"
+  },
+  {
+    "code": "21924-6",
+    "name": "Tumor marker Cancer",
+    "loincCode": "21924-6",
+    "category": "Tumor Markers",
+    "unit": ""
+  },
+  {
+    "code": "4.0",
+    "name": "{score}",
+    "loincCode": "4.0",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "18752-6",
+    "name": "Exercise stress test study",
+    "loincCode": "18752-6",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "70006-2",
+    "name": "Medication management note",
+    "loincCode": "70006-2",
+    "category": "Other",
+    "unit": ""
+  },
+  {
+    "code": "22577-1",
+    "name": "Toxoplasma gondii Ab [Presence] in Serum",
+    "loincCode": "22577-1",
+    "category": "Other",
+    "unit": ""
+  }
+]

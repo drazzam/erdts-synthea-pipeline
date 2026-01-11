@@ -1,0 +1,1794 @@
+[
+  {
+    "code": "314076",
+    "name": "lisinopril 10 MG Oral Tablet",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "314076"
+  },
+  {
+    "code": "834102",
+    "name": "Penicillin V Potassium 500 MG Oral Tablet",
+    "genericName": "penicillin v",
+    "drugClass": "Antibiotic",
+    "rxnorm": "834102"
+  },
+  {
+    "code": "849574",
+    "name": "Naproxen sodium 220 MG Oral Tablet",
+    "genericName": "naproxen sodium",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "849574"
+  },
+  {
+    "code": "807283",
+    "name": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+    "genericName": "levonorgestrel",
+    "drugClass": "Contraceptive",
+    "rxnorm": "807283"
+  },
+  {
+    "code": "310798",
+    "name": "Hydrochlorothiazide 25 MG Oral Tablet",
+    "genericName": "hydrochlorothiazide",
+    "drugClass": "Diuretic",
+    "rxnorm": "310798"
+  },
+  {
+    "code": "1535362",
+    "name": "sodium fluoride 0.0272 MG/MG Oral Gel",
+    "genericName": "sodium fluoride",
+    "drugClass": "Other",
+    "rxnorm": "1535362"
+  },
+  {
+    "code": "308136",
+    "name": "amLODIPine 2.5 MG Oral Tablet",
+    "genericName": "amlodipine",
+    "drugClass": "Calcium Channel Blocker",
+    "rxnorm": "308136"
+  },
+  {
+    "code": "106892",
+    "name": "insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin]",
+    "genericName": "insulin isophane",
+    "drugClass": "Insulin",
+    "rxnorm": "106892"
+  },
+  {
+    "code": "1049625",
+    "name": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "1049625"
+  },
+  {
+    "code": "309362",
+    "name": "Clopidogrel 75 MG Oral Tablet",
+    "genericName": "clopidogrel",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "309362"
+  },
+  {
+    "code": "312961",
+    "name": "Simvastatin 20 MG Oral Tablet",
+    "genericName": "simvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "312961"
+  },
+  {
+    "code": "866412",
+    "name": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+    "genericName": "24",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866412"
+  },
+  {
+    "code": "705129",
+    "name": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+    "genericName": "nitroglycerin",
+    "drugClass": "Other",
+    "rxnorm": "705129"
+  },
+  {
+    "code": "1665060",
+    "name": "cefazolin 2000 MG Injection",
+    "genericName": "cefazolin",
+    "drugClass": "Other",
+    "rxnorm": "1665060"
+  },
+  {
+    "code": "1659263",
+    "name": "1 ML heparin sodium  porcine 5000 UNT/ML Injection",
+    "genericName": "1",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "1659263"
+  },
+  {
+    "code": "1796676",
+    "name": "25 ML protamine sulfate (USP) 10 MG/ML Injection",
+    "genericName": "25",
+    "drugClass": "Other",
+    "rxnorm": "1796676"
+  },
+  {
+    "code": "1740467",
+    "name": "2 ML Ondansetron 2 MG/ML Injection",
+    "genericName": "2",
+    "drugClass": "Other",
+    "rxnorm": "1740467"
+  },
+  {
+    "code": "311700",
+    "name": "Midazolam 1 MG/ML Injectable Solution",
+    "genericName": "midazolam",
+    "drugClass": "Other",
+    "rxnorm": "311700"
+  },
+  {
+    "code": "1808217",
+    "name": "100 ML Propofol 10 MG/ML Injection",
+    "genericName": "100",
+    "drugClass": "Other",
+    "rxnorm": "1808217"
+  },
+  {
+    "code": "1234995",
+    "name": "Rocuronium bromide 10 MG/ML Injectable Solution",
+    "genericName": "rocuronium bromide",
+    "drugClass": "Other",
+    "rxnorm": "1234995"
+  },
+  {
+    "code": "542347",
+    "name": "isoflurane 999 MG/ML Inhalation Solution",
+    "genericName": "isoflurane",
+    "drugClass": "Other",
+    "rxnorm": "542347"
+  },
+  {
+    "code": "1809104",
+    "name": "5 ML SUFentanil 0.05 MG/ML Injection",
+    "genericName": "5",
+    "drugClass": "Other",
+    "rxnorm": "1809104"
+  },
+  {
+    "code": "562251",
+    "name": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet",
+    "genericName": "amoxicillin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "562251"
+  },
+  {
+    "code": "895996",
+    "name": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+    "genericName": "120",
+    "drugClass": "Respiratory",
+    "rxnorm": "895996"
+  },
+  {
+    "code": "630208",
+    "name": "albuterol 0.83 MG/ML Inhalation Solution",
+    "genericName": "albuterol",
+    "drugClass": "Respiratory",
+    "rxnorm": "630208"
+  },
+  {
+    "code": "978950",
+    "name": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Ora",
+    "genericName": "{5",
+    "drugClass": "Other",
+    "rxnorm": "978950"
+  },
+  {
+    "code": "197511",
+    "name": "ciprofloxacin 250 MG Oral Tablet",
+    "genericName": "ciprofloxacin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "197511"
+  },
+  {
+    "code": "751905",
+    "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl e",
+    "genericName": "{7",
+    "drugClass": "Contraceptive",
+    "rxnorm": "751905"
+  },
+  {
+    "code": "313782",
+    "name": "Acetaminophen 325 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "313782"
+  },
+  {
+    "code": "1605257",
+    "name": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",
+    "genericName": "levonorgestrel",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1605257"
+  },
+  {
+    "code": "749762",
+    "name": "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]",
+    "genericName": "{7",
+    "drugClass": "Contraceptive",
+    "rxnorm": "749762"
+  },
+  {
+    "code": "310325",
+    "name": "ferrous sulfate 325 MG Oral Tablet",
+    "genericName": "ferrous sulfate",
+    "drugClass": "Other",
+    "rxnorm": "310325"
+  },
+  {
+    "code": "206905",
+    "name": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+    "genericName": "ibuprofen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "206905"
+  },
+  {
+    "code": "856987",
+    "name": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "856987"
+  },
+  {
+    "code": "314231",
+    "name": "Simvastatin 10 MG Oral Tablet",
+    "genericName": "simvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "314231"
+  },
+  {
+    "code": "1043400",
+    "name": "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "1043400"
+  },
+  {
+    "code": "1359133",
+    "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (",
+    "genericName": "{5",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1359133"
+  },
+  {
+    "code": "749785",
+    "name": "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl e",
+    "genericName": "{7",
+    "drugClass": "Contraceptive",
+    "rxnorm": "749785"
+  },
+  {
+    "code": "1367439",
+    "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]",
+    "genericName": "21",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1367439"
+  },
+  {
+    "code": "748962",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",
+    "genericName": "{28",
+    "drugClass": "Contraceptive",
+    "rxnorm": "748962"
+  },
+  {
+    "code": "313988",
+    "name": "Furosemide 40 MG Oral Tablet",
+    "genericName": "furosemide",
+    "drugClass": "Diuretic",
+    "rxnorm": "313988"
+  },
+  {
+    "code": "200033",
+    "name": "carvedilol 25 MG Oral Tablet",
+    "genericName": "carvedilol",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "200033"
+  },
+  {
+    "code": "314077",
+    "name": "lisinopril 20 MG Oral Tablet",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "314077"
+  },
+  {
+    "code": "757594",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",
+    "genericName": "{28",
+    "drugClass": "Contraceptive",
+    "rxnorm": "757594"
+  },
+  {
+    "code": "389221",
+    "name": "Etonogestrel 68 MG Drug Implant",
+    "genericName": "etonogestrel",
+    "drugClass": "Other",
+    "rxnorm": "389221"
+  },
+  {
+    "code": "1719286",
+    "name": "10 ML Furosemide 10 MG/ML Injection",
+    "genericName": "10",
+    "drugClass": "Diuretic",
+    "rxnorm": "1719286"
+  },
+  {
+    "code": "477045",
+    "name": "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+    "genericName": "chlorpheniramine maleate",
+    "drugClass": "Other",
+    "rxnorm": "477045"
+  },
+  {
+    "code": "979492",
+    "name": "losartan potassium 50 MG Oral Tablet",
+    "genericName": "losartan potassium",
+    "drugClass": "ARB",
+    "rxnorm": "979492"
+  },
+  {
+    "code": "313521",
+    "name": "tropicamide 5 MG/ML Ophthalmic Solution",
+    "genericName": "tropicamide",
+    "drugClass": "Other",
+    "rxnorm": "313521"
+  },
+  {
+    "code": "310965",
+    "name": "Ibuprofen 200 MG Oral Tablet",
+    "genericName": "ibuprofen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "310965"
+  },
+  {
+    "code": "1860491",
+    "name": "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+    "genericName": "12",
+    "drugClass": "Opioid",
+    "rxnorm": "1860491"
+  },
+  {
+    "code": "861467",
+    "name": "Meperidine Hydrochloride 50 MG Oral Tablet",
+    "genericName": "meperidine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "861467"
+  },
+  {
+    "code": "860975",
+    "name": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+    "genericName": "24",
+    "drugClass": "Antidiabetic",
+    "rxnorm": "860975"
+  },
+  {
+    "code": "308182",
+    "name": "Amoxicillin 250 MG Oral Capsule",
+    "genericName": "amoxicillin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "308182"
+  },
+  {
+    "code": "198405",
+    "name": "Ibuprofen 100 MG Oral Tablet",
+    "genericName": "ibuprofen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "198405"
+  },
+  {
+    "code": "831533",
+    "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+    "genericName": "{28",
+    "drugClass": "Contraceptive",
+    "rxnorm": "831533"
+  },
+  {
+    "code": "808917",
+    "name": "fosfomycin 3000 MG Granules for Oral Solution",
+    "genericName": "fosfomycin",
+    "drugClass": "Other",
+    "rxnorm": "808917"
+  },
+  {
+    "code": "1856546",
+    "name": "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",
+    "genericName": "levonorgestrel",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1856546"
+  },
+  {
+    "code": "1049221",
+    "name": "Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "1049221"
+  },
+  {
+    "code": "1049630",
+    "name": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+    "genericName": "diphenhydramine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1049630"
+  },
+  {
+    "code": "1648755",
+    "name": "nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule",
+    "genericName": "nitrofurantoin  macrocrystals",
+    "drugClass": "Other",
+    "rxnorm": "1648755"
+  },
+  {
+    "code": "1000126",
+    "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+    "genericName": "1",
+    "drugClass": "Other",
+    "rxnorm": "1000126"
+  },
+  {
+    "code": "748879",
+    "name": "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+    "genericName": "{21",
+    "drugClass": "Contraceptive",
+    "rxnorm": "748879"
+  },
+  {
+    "code": "789980",
+    "name": "Ampicillin 100 MG/ML Injectable Solution",
+    "genericName": "ampicillin",
+    "drugClass": "Other",
+    "rxnorm": "789980"
+  },
+  {
+    "code": "243670",
+    "name": "Aspirin 81 MG Oral Tablet",
+    "genericName": "aspirin",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "243670"
+  },
+  {
+    "code": "204892",
+    "name": "clonazePAM 0.25 MG Oral Tablet",
+    "genericName": "clonazepam",
+    "drugClass": "Other",
+    "rxnorm": "204892"
+  },
+  {
+    "code": "308971",
+    "name": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]",
+    "genericName": "carbamazepine",
+    "drugClass": "Anticonvulsant",
+    "rxnorm": "308971"
+  },
+  {
+    "code": "200243",
+    "name": "sevoflurane 1000 MG/ML Inhalation Solution",
+    "genericName": "sevoflurane",
+    "drugClass": "Other",
+    "rxnorm": "200243"
+  },
+  {
+    "code": "1735006",
+    "name": "10 ML Fentanyl 0.05 MG/ML Injection",
+    "genericName": "10",
+    "drugClass": "Opioid",
+    "rxnorm": "1735006"
+  },
+  {
+    "code": "1803932",
+    "name": "Leucovorin 100 MG Injection",
+    "genericName": "leucovorin",
+    "drugClass": "Other",
+    "rxnorm": "1803932"
+  },
+  {
+    "code": "1736776",
+    "name": "10 ML oxaliplatin 5 MG/ML Injection",
+    "genericName": "10",
+    "drugClass": "Other",
+    "rxnorm": "1736776"
+  },
+  {
+    "code": "106258",
+    "name": "Hydrocortisone 10 MG/ML Topical Cream",
+    "genericName": "hydrocortisone",
+    "drugClass": "Corticosteroid",
+    "rxnorm": "106258"
+  },
+  {
+    "code": "197378",
+    "name": "Astemizole 10 MG Oral Tablet",
+    "genericName": "astemizole",
+    "drugClass": "Other",
+    "rxnorm": "197378"
+  },
+  {
+    "code": "897685",
+    "name": "verapamil hydrochloride 80 MG Oral Tablet [Calan]",
+    "genericName": "verapamil hydrochloride",
+    "drugClass": "Calcium Channel Blocker",
+    "rxnorm": "897685"
+  },
+  {
+    "code": "855332",
+    "name": "Warfarin Sodium 5 MG Oral Tablet",
+    "genericName": "warfarin sodium",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "855332"
+  },
+  {
+    "code": "197604",
+    "name": "Digoxin 0.125 MG Oral Tablet",
+    "genericName": "digoxin",
+    "drugClass": "Other",
+    "rxnorm": "197604"
+  },
+  {
+    "code": "2001499",
+    "name": "Vitamin B12 5 MG/ML Injectable Solution",
+    "genericName": "vitamin b",
+    "drugClass": "Other",
+    "rxnorm": "2001499"
+  },
+  {
+    "code": "245134",
+    "name": "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+    "genericName": "72",
+    "drugClass": "Opioid",
+    "rxnorm": "245134"
+  },
+  {
+    "code": "1049504",
+    "name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+    "genericName": "abuse",
+    "drugClass": "Opioid",
+    "rxnorm": "1049504"
+  },
+  {
+    "code": "897122",
+    "name": "3 ML liraglutide 6 MG/ML Pen Injector",
+    "genericName": "3",
+    "drugClass": "Other",
+    "rxnorm": "897122"
+  },
+  {
+    "code": "748856",
+    "name": "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]",
+    "genericName": "{24",
+    "drugClass": "Contraceptive",
+    "rxnorm": "748856"
+  },
+  {
+    "code": "859088",
+    "name": "NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",
+    "genericName": "nda",
+    "drugClass": "Respiratory",
+    "rxnorm": "859088"
+  },
+  {
+    "code": "896001",
+    "name": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+    "genericName": "120",
+    "drugClass": "Respiratory",
+    "rxnorm": "896001"
+  },
+  {
+    "code": "205923",
+    "name": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen]",
+    "genericName": "1",
+    "drugClass": "Other",
+    "rxnorm": "205923"
+  },
+  {
+    "code": "198031",
+    "name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+    "genericName": "24",
+    "drugClass": "Other",
+    "rxnorm": "198031"
+  },
+  {
+    "code": "1534809",
+    "name": "168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+    "genericName": "168",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1534809"
+  },
+  {
+    "code": "866514",
+    "name": "metoprolol tartrate 50 MG Oral Tablet",
+    "genericName": "metoprolol tartrate",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866514"
+  },
+  {
+    "code": "859751",
+    "name": "rosuvastatin calcium 20 MG Oral Tablet",
+    "genericName": "rosuvastatin calcium",
+    "drugClass": "Statin",
+    "rxnorm": "859751"
+  },
+  {
+    "code": "855812",
+    "name": "prasugrel 10 MG Oral Tablet",
+    "genericName": "prasugrel",
+    "drugClass": "Other",
+    "rxnorm": "855812"
+  },
+  {
+    "code": "108515",
+    "name": "1 ML tacrolimus 5 MG/ML Injection [Prograf]",
+    "genericName": "1",
+    "drugClass": "Other",
+    "rxnorm": "108515"
+  },
+  {
+    "code": "1664463",
+    "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+    "genericName": "24",
+    "drugClass": "Other",
+    "rxnorm": "1664463"
+  },
+  {
+    "code": "311034",
+    "name": "insulin  regular  human 100 UNT/ML Injectable Solution",
+    "genericName": "insulin  regular",
+    "drugClass": "Insulin",
+    "rxnorm": "311034"
+  },
+  {
+    "code": "1723208",
+    "name": "10 ML Alfentanil 0.5 MG/ML Injection",
+    "genericName": "10",
+    "drugClass": "Other",
+    "rxnorm": "1723208"
+  },
+  {
+    "code": "1191013",
+    "name": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution",
+    "genericName": "proparacaine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1191013"
+  },
+  {
+    "code": "245314",
+    "name": "albuterol 5 MG/ML Inhalation Solution",
+    "genericName": "albuterol",
+    "drugClass": "Respiratory",
+    "rxnorm": "245314"
+  },
+  {
+    "code": "896209",
+    "name": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+    "genericName": "60",
+    "drugClass": "Respiratory",
+    "rxnorm": "896209"
+  },
+  {
+    "code": "309309",
+    "name": "ciprofloxacin 500 MG Oral Tablet",
+    "genericName": "ciprofloxacin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "309309"
+  },
+  {
+    "code": "834061",
+    "name": "Penicillin V Potassium 250 MG Oral Tablet",
+    "genericName": "penicillin v",
+    "drugClass": "Antibiotic",
+    "rxnorm": "834061"
+  },
+  {
+    "code": "198335",
+    "name": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
+    "genericName": "sulfamethoxazole",
+    "drugClass": "Other",
+    "rxnorm": "198335"
+  },
+  {
+    "code": "904419",
+    "name": "Alendronic acid 10 MG Oral Tablet",
+    "genericName": "alendronic acid",
+    "drugClass": "Other",
+    "rxnorm": "904419"
+  },
+  {
+    "code": "313820",
+    "name": "Acetaminophen 160 MG Chewable Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "313820"
+  },
+  {
+    "code": "617296",
+    "name": "amoxicillin 500 MG / clavulanate 125 MG Oral Tablet",
+    "genericName": "amoxicillin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "617296"
+  },
+  {
+    "code": "1014676",
+    "name": "cetirizine hydrochloride 5 MG Oral Tablet",
+    "genericName": "cetirizine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1014676"
+  },
+  {
+    "code": "1870230",
+    "name": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+    "genericName": "nda",
+    "drugClass": "Other",
+    "rxnorm": "1870230"
+  },
+  {
+    "code": "312617",
+    "name": "predniSONE 5 MG Oral Tablet",
+    "genericName": "prednisone",
+    "drugClass": "Corticosteroid",
+    "rxnorm": "312617"
+  },
+  {
+    "code": "835603",
+    "name": "tramadol hydrochloride 50 MG Oral Tablet",
+    "genericName": "tramadol hydrochloride",
+    "drugClass": "Opioid",
+    "rxnorm": "835603"
+  },
+  {
+    "code": "997488",
+    "name": "Fexofenadine hydrochloride 30 MG Oral Tablet",
+    "genericName": "fexofenadine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "997488"
+  },
+  {
+    "code": "351136",
+    "name": "albuterol 0.417 MG/ML Inhalation Solution",
+    "genericName": "albuterol",
+    "drugClass": "Respiratory",
+    "rxnorm": "351136"
+  },
+  {
+    "code": "308192",
+    "name": "Amoxicillin 500 MG Oral Tablet",
+    "genericName": "amoxicillin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "308192"
+  },
+  {
+    "code": "241834",
+    "name": "cycloSPORINE  modified 100 MG Oral Capsule",
+    "genericName": "cyclosporine  modified",
+    "drugClass": "Other",
+    "rxnorm": "241834"
+  },
+  {
+    "code": "665078",
+    "name": "Loratadine 5 MG Chewable Tablet",
+    "genericName": "loratadine",
+    "drugClass": "Other",
+    "rxnorm": "665078"
+  },
+  {
+    "code": "212033",
+    "name": "aspirin 325 MG Oral Tablet",
+    "genericName": "aspirin",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "212033"
+  },
+  {
+    "code": "198039",
+    "name": "nitroglycerin 0.4 MG Sublingual Tablet",
+    "genericName": "nitroglycerin",
+    "drugClass": "Other",
+    "rxnorm": "198039"
+  },
+  {
+    "code": "1728805",
+    "name": "2 ML morphine sulfate 1 MG/ML Injection",
+    "genericName": "2",
+    "drugClass": "Opioid",
+    "rxnorm": "1728805"
+  },
+  {
+    "code": "1361048",
+    "name": "heparin sodium  porcine 100 UNT/ML Injectable Solution",
+    "genericName": "heparin sodium",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "1361048"
+  },
+  {
+    "code": "749196",
+    "name": "clopidogrel 300 MG Oral Tablet",
+    "genericName": "clopidogrel",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "749196"
+  },
+  {
+    "code": "200031",
+    "name": "carvedilol 6.25 MG Oral Tablet",
+    "genericName": "carvedilol",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "200031"
+  },
+  {
+    "code": "200345",
+    "name": "simvastatin 80 MG Oral Tablet",
+    "genericName": "simvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "200345"
+  },
+  {
+    "code": "199224",
+    "name": "anastrozole 1 MG Oral Tablet",
+    "genericName": "anastrozole",
+    "drugClass": "Other",
+    "rxnorm": "199224"
+  },
+  {
+    "code": "562508",
+    "name": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
+    "genericName": "amoxicillin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "562508"
+  },
+  {
+    "code": "209387",
+    "name": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "209387"
+  },
+  {
+    "code": "1652673",
+    "name": "Doxycycline Monohydrate 50 MG Oral Tablet",
+    "genericName": "doxycycline monohydrate",
+    "drugClass": "Antibiotic",
+    "rxnorm": "1652673"
+  },
+  {
+    "code": "1732186",
+    "name": "100 ML Epirubicin Hydrochloride 2 MG/ML Injection",
+    "genericName": "100",
+    "drugClass": "Other",
+    "rxnorm": "1732186"
+  },
+  {
+    "code": "1601380",
+    "name": "palbociclib 100 MG Oral Capsule",
+    "genericName": "palbociclib",
+    "drugClass": "Other",
+    "rxnorm": "1601380"
+  },
+  {
+    "code": "854235",
+    "name": "0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe",
+    "genericName": "0.4",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "854235"
+  },
+  {
+    "code": "198440",
+    "name": "Acetaminophen 500 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "198440"
+  },
+  {
+    "code": "310436",
+    "name": "Galantamine 4 MG Oral Tablet",
+    "genericName": "galantamine",
+    "drugClass": "Other",
+    "rxnorm": "310436"
+  },
+  {
+    "code": "1599803",
+    "name": "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule",
+    "genericName": "24",
+    "drugClass": "Other",
+    "rxnorm": "1599803"
+  },
+  {
+    "code": "309097",
+    "name": "Cefuroxime 250 MG Oral Tablet",
+    "genericName": "cefuroxime",
+    "drugClass": "Other",
+    "rxnorm": "309097"
+  },
+  {
+    "code": "643066",
+    "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+    "genericName": "efavirenz",
+    "drugClass": "Other",
+    "rxnorm": "643066"
+  },
+  {
+    "code": "476556",
+    "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+    "genericName": "emtricitabine",
+    "drugClass": "Other",
+    "rxnorm": "476556"
+  },
+  {
+    "code": "1359269",
+    "name": "darunavir 800 MG Oral Tablet",
+    "genericName": "darunavir",
+    "drugClass": "Other",
+    "rxnorm": "1359269"
+  },
+  {
+    "code": "317150",
+    "name": "ritonavir 100 MG Oral Capsule",
+    "genericName": "ritonavir",
+    "drugClass": "Other",
+    "rxnorm": "317150"
+  },
+  {
+    "code": "745752",
+    "name": "NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",
+    "genericName": "nda",
+    "drugClass": "Respiratory",
+    "rxnorm": "745752"
+  },
+  {
+    "code": "349094",
+    "name": "budesonide 0.125 MG/ML Inhalation Suspension",
+    "genericName": "budesonide",
+    "drugClass": "Respiratory",
+    "rxnorm": "349094"
+  },
+  {
+    "code": "979485",
+    "name": "losartan potassium 25 MG Oral Tablet",
+    "genericName": "losartan potassium",
+    "drugClass": "ARB",
+    "rxnorm": "979485"
+  },
+  {
+    "code": "351109",
+    "name": "budesonide 0.25 MG/ML Inhalation Suspension",
+    "genericName": "budesonide",
+    "drugClass": "Respiratory",
+    "rxnorm": "351109"
+  },
+  {
+    "code": "857005",
+    "name": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "857005"
+  },
+  {
+    "code": "1729584",
+    "name": "remifentanil 2 MG Injection",
+    "genericName": "remifentanil",
+    "drugClass": "Other",
+    "rxnorm": "1729584"
+  },
+  {
+    "code": "1659131",
+    "name": "piperacillin 2000 MG / tazobactam 250 MG Injection",
+    "genericName": "piperacillin",
+    "drugClass": "Other",
+    "rxnorm": "1659131"
+  },
+  {
+    "code": "1807510",
+    "name": "150 ML vancomycin 5 MG/ML Injection",
+    "genericName": "150",
+    "drugClass": "Other",
+    "rxnorm": "1807510"
+  },
+  {
+    "code": "1860154",
+    "name": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet",
+    "genericName": "abuse",
+    "drugClass": "Opioid",
+    "rxnorm": "1860154"
+  },
+  {
+    "code": "993770",
+    "name": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "993770"
+  },
+  {
+    "code": "1860480",
+    "name": "1 ML DOCEtaxel 20 MG/ML Injection",
+    "genericName": "1",
+    "drugClass": "Other",
+    "rxnorm": "1860480"
+  },
+  {
+    "code": "752899",
+    "name": "0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe",
+    "genericName": "0.25",
+    "drugClass": "Other",
+    "rxnorm": "752899"
+  },
+  {
+    "code": "1361226",
+    "name": "heparin sodium  porcine 1000 UNT/ML Injectable Solution",
+    "genericName": "heparin sodium",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "1361226"
+  },
+  {
+    "code": "562366",
+    "name": "desflurane 1000 MG/ML Inhalation Solution",
+    "genericName": "desflurane",
+    "drugClass": "Other",
+    "rxnorm": "562366"
+  },
+  {
+    "code": "1649987",
+    "name": "doxycycline hyclate 100 MG",
+    "genericName": "doxycycline hyclate",
+    "drugClass": "Antibiotic",
+    "rxnorm": "1649987"
+  },
+  {
+    "code": "197454",
+    "name": "cephalexin 500 MG Oral Tablet",
+    "genericName": "cephalexin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "197454"
+  },
+  {
+    "code": "311372",
+    "name": "Loratadine 10 MG Oral Tablet",
+    "genericName": "loratadine",
+    "drugClass": "Other",
+    "rxnorm": "311372"
+  },
+  {
+    "code": "583214",
+    "name": "Paclitaxel 100 MG Injection",
+    "genericName": "paclitaxel",
+    "drugClass": "Other",
+    "rxnorm": "583214"
+  },
+  {
+    "code": "198240",
+    "name": "Tamoxifen 10 MG Oral Tablet",
+    "genericName": "tamoxifen",
+    "drugClass": "Other",
+    "rxnorm": "198240"
+  },
+  {
+    "code": "198014",
+    "name": "Naproxen 500 MG Oral Tablet",
+    "genericName": "naproxen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "198014"
+  },
+  {
+    "code": "105585",
+    "name": "Methotrexate 2.5 MG Oral Tablet",
+    "genericName": "methotrexate",
+    "drugClass": "Other",
+    "rxnorm": "105585"
+  },
+  {
+    "code": "197319",
+    "name": "Allopurinol 100 MG Oral Tablet",
+    "genericName": "allopurinol",
+    "drugClass": "Other",
+    "rxnorm": "197319"
+  },
+  {
+    "code": "197541",
+    "name": "Colchicine 0.6 MG Oral Tablet",
+    "genericName": "colchicine",
+    "drugClass": "Other",
+    "rxnorm": "197541"
+  },
+  {
+    "code": "1100184",
+    "name": "Donepezil hydrochloride 23 MG Oral Tablet",
+    "genericName": "donepezil hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1100184"
+  },
+  {
+    "code": "310385",
+    "name": "FLUoxetine 20 MG Oral Capsule",
+    "genericName": "fluoxetine",
+    "drugClass": "SSRI Antidepressant",
+    "rxnorm": "310385"
+  },
+  {
+    "code": "854255",
+    "name": "enoxaparin sodium 100 MG/ML Injectable Solution",
+    "genericName": "enoxaparin sodium",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "854255"
+  },
+  {
+    "code": "1116635",
+    "name": "ticagrelor 90 MG Oral Tablet",
+    "genericName": "ticagrelor",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "1116635"
+  },
+  {
+    "code": "856448",
+    "name": "propranolol hydrochloride 10 MG Oral Tablet",
+    "genericName": "propranolol hydrochloride",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "856448"
+  },
+  {
+    "code": "198211",
+    "name": "simvastatin 40 MG Oral Tablet",
+    "genericName": "simvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "198211"
+  },
+  {
+    "code": "349199",
+    "name": "valsartan 80 MG Oral Tablet",
+    "genericName": "valsartan",
+    "drugClass": "ARB",
+    "rxnorm": "349199"
+  },
+  {
+    "code": "854252",
+    "name": "1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe",
+    "genericName": "1",
+    "drugClass": "Anticoagulant",
+    "rxnorm": "854252"
+  },
+  {
+    "code": "1807513",
+    "name": "vancomycin 1000 MG Injection",
+    "genericName": "vancomycin",
+    "drugClass": "Other",
+    "rxnorm": "1807513"
+  },
+  {
+    "code": "1659149",
+    "name": "piperacillin 4000 MG / tazobactam 500 MG Injection",
+    "genericName": "piperacillin",
+    "drugClass": "Other",
+    "rxnorm": "1659149"
+  },
+  {
+    "code": "242969",
+    "name": "4 ML Norepinephrine 1 MG/ML Injection",
+    "genericName": "4",
+    "drugClass": "Other",
+    "rxnorm": "242969"
+  },
+  {
+    "code": "2103182",
+    "name": "1 ML Vasopressin (USP) 20 UNT/ML Injection",
+    "genericName": "1",
+    "drugClass": "Other",
+    "rxnorm": "2103182"
+  },
+  {
+    "code": "996740",
+    "name": "Memantine hydrochloride 2 MG/ML Oral Solution",
+    "genericName": "memantine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "996740"
+  },
+  {
+    "code": "1997015",
+    "name": "50 ML bivalirudin 5 MG/ML Injection",
+    "genericName": "50",
+    "drugClass": "Other",
+    "rxnorm": "1997015"
+  },
+  {
+    "code": "686924",
+    "name": "carvedilol 3.125 MG Oral Tablet",
+    "genericName": "carvedilol",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "686924"
+  },
+  {
+    "code": "1656356",
+    "name": "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+    "genericName": "sacubitril",
+    "drugClass": "ARB",
+    "rxnorm": "1656356"
+  },
+  {
+    "code": "866427",
+    "name": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet",
+    "genericName": "24",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866427"
+  },
+  {
+    "code": "617310",
+    "name": "atorvastatin 20 MG Oral Tablet",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "617310"
+  },
+  {
+    "code": "608139",
+    "name": "atomoxetine 100 MG Oral Capsule",
+    "genericName": "atomoxetine",
+    "drugClass": "Other",
+    "rxnorm": "608139"
+  },
+  {
+    "code": "197591",
+    "name": "Diazepam 5 MG Oral Tablet",
+    "genericName": "diazepam",
+    "drugClass": "Other",
+    "rxnorm": "197591"
+  },
+  {
+    "code": "1657066",
+    "name": "4 ML bevacizumab 25 MG/ML Injection",
+    "genericName": "4",
+    "drugClass": "Other",
+    "rxnorm": "1657066"
+  },
+  {
+    "code": "2563431",
+    "name": "aspirin 81 MG Oral Capsule [Vazalore]",
+    "genericName": "aspirin",
+    "drugClass": "Antiplatelet",
+    "rxnorm": "2563431"
+  },
+  {
+    "code": "866924",
+    "name": "metoprolol tartrate 25 MG Oral Tablet",
+    "genericName": "metoprolol tartrate",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866924"
+  },
+  {
+    "code": "859424",
+    "name": "rosuvastatin calcium 5 MG Oral Tablet",
+    "genericName": "rosuvastatin calcium",
+    "drugClass": "Statin",
+    "rxnorm": "859424"
+  },
+  {
+    "code": "314203",
+    "name": "quinapril 40 MG Oral Tablet",
+    "genericName": "quinapril",
+    "drugClass": "Other",
+    "rxnorm": "314203"
+  },
+  {
+    "code": "2123111",
+    "name": "NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+    "genericName": "nda",
+    "drugClass": "Respiratory",
+    "rxnorm": "2123111"
+  },
+  {
+    "code": "997223",
+    "name": "Donepezil hydrochloride 10 MG Oral Tablet",
+    "genericName": "donepezil hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "997223"
+  },
+  {
+    "code": "1431987",
+    "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+    "genericName": "24",
+    "drugClass": "Other",
+    "rxnorm": "1431987"
+  },
+  {
+    "code": "212446",
+    "name": "azithromycin 250 MG Oral Tablet [Zithromax]",
+    "genericName": "azithromycin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "212446"
+  },
+  {
+    "code": "866438",
+    "name": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet [Toprol]",
+    "genericName": "24",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866438"
+  },
+  {
+    "code": "259255",
+    "name": "atorvastatin 80 MG Oral Tablet",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "259255"
+  },
+  {
+    "code": "311354",
+    "name": "lisinopril 5 MG Oral Tablet",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "311354"
+  },
+  {
+    "code": "1014678",
+    "name": "cetirizine hydrochloride 10 MG Oral Tablet",
+    "genericName": "cetirizine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1014678"
+  },
+  {
+    "code": "1091392",
+    "name": "Methylphenidate Hydrochloride 20 MG Oral Tablet",
+    "genericName": "methylphenidate hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "1091392"
+  },
+  {
+    "code": "309045",
+    "name": "Cefaclor 250 MG Oral Capsule",
+    "genericName": "cefaclor",
+    "drugClass": "Other",
+    "rxnorm": "309045"
+  },
+  {
+    "code": "1804799",
+    "name": "Alteplase 100 MG Injection",
+    "genericName": "alteplase",
+    "drugClass": "Other",
+    "rxnorm": "1804799"
+  },
+  {
+    "code": "141962",
+    "name": "Azithromycin 250 MG Oral Capsule",
+    "genericName": "azithromycin",
+    "drugClass": "Antibiotic",
+    "rxnorm": "141962"
+  },
+  {
+    "code": "1366343",
+    "name": "Levonorgestrel 0.00354 MG/HR Drug Implant",
+    "genericName": "levonorgestrel",
+    "drugClass": "Contraceptive",
+    "rxnorm": "1366343"
+  },
+  {
+    "code": "966222",
+    "name": "Levothyroxine Sodium 0.075 MG Oral Tablet",
+    "genericName": "levothyroxine sodium",
+    "drugClass": "Thyroid Hormone",
+    "rxnorm": "966222"
+  },
+  {
+    "code": "309845",
+    "name": "Diazepam 5 MG/ML Injectable Solution",
+    "genericName": "diazepam",
+    "drugClass": "Other",
+    "rxnorm": "309845"
+  },
+  {
+    "code": "997501",
+    "name": "Fexofenadine hydrochloride 60 MG Oral Tablet",
+    "genericName": "fexofenadine hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "997501"
+  },
+  {
+    "code": "141918",
+    "name": "Terfenadine 60 MG Oral Tablet",
+    "genericName": "terfenadine",
+    "drugClass": "Other",
+    "rxnorm": "141918"
+  },
+  {
+    "code": "312938",
+    "name": "Sertraline 100 MG Oral Tablet",
+    "genericName": "sertraline",
+    "drugClass": "SSRI Antidepressant",
+    "rxnorm": "312938"
+  },
+  {
+    "code": "856980",
+    "name": "acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic/NSAID",
+    "rxnorm": "856980"
+  },
+  {
+    "code": "617311",
+    "name": "atorvastatin 40 MG Oral Tablet",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "617311"
+  },
+  {
+    "code": "1648756",
+    "name": "nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG [Macrobid]",
+    "genericName": "nitrofurantoin  macrocrystals",
+    "drugClass": "Other",
+    "rxnorm": "1648756"
+  },
+  {
+    "code": "197381",
+    "name": "atenolol 50 MG Oral Tablet",
+    "genericName": "atenolol",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "197381"
+  },
+  {
+    "code": "979480",
+    "name": "losartan potassium 100 MG Oral Tablet",
+    "genericName": "losartan potassium",
+    "drugClass": "ARB",
+    "rxnorm": "979480"
+  },
+  {
+    "code": "199663",
+    "name": "zidovudine 300 MG Oral Tablet",
+    "genericName": "zidovudine",
+    "drugClass": "Other",
+    "rxnorm": "199663"
+  },
+  {
+    "code": "284988",
+    "name": "didanosine 400 MG Delayed Release Oral Capsule",
+    "genericName": "didanosine",
+    "drugClass": "Other",
+    "rxnorm": "284988"
+  },
+  {
+    "code": "313760",
+    "name": "zalcitabine 0.75 MG Oral Tablet",
+    "genericName": "zalcitabine",
+    "drugClass": "Other",
+    "rxnorm": "313760"
+  },
+  {
+    "code": "105078",
+    "name": "Penicillin G 375 MG/ML Injectable Solution",
+    "genericName": "penicillin g",
+    "drugClass": "Antibiotic",
+    "rxnorm": "105078"
+  },
+  {
+    "code": "313002",
+    "name": "Sodium Chloride 9 MG/ML Injectable Solution",
+    "genericName": "sodium chloride",
+    "drugClass": "Other",
+    "rxnorm": "313002"
+  },
+  {
+    "code": "1732136",
+    "name": "1 ML Morphine Sulfate 5 MG/ML Injection",
+    "genericName": "1",
+    "drugClass": "Opioid",
+    "rxnorm": "1732136"
+  },
+  {
+    "code": "866436",
+    "name": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+    "genericName": "24",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "866436"
+  },
+  {
+    "code": "198188",
+    "name": "ramipril 2.5 MG Oral Capsule",
+    "genericName": "ramipril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "198188"
+  },
+  {
+    "code": "351137",
+    "name": "albuterol 0.21 MG/ML Inhalation Solution",
+    "genericName": "albuterol",
+    "drugClass": "Respiratory",
+    "rxnorm": "351137"
+  },
+  {
+    "code": "351266",
+    "name": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+    "genericName": "buprenorphine",
+    "drugClass": "Other",
+    "rxnorm": "351266"
+  },
+  {
+    "code": "1998774",
+    "name": "Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]",
+    "genericName": "breath",
+    "drugClass": "Other",
+    "rxnorm": "1998774"
+  },
+  {
+    "code": "617312",
+    "name": "atorvastatin 10 MG Oral Tablet",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "617312"
+  },
+  {
+    "code": "349353",
+    "name": "hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet",
+    "genericName": "hydrochlorothiazide",
+    "drugClass": "ARB",
+    "rxnorm": "349353"
+  },
+  {
+    "code": "898359",
+    "name": "amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule",
+    "genericName": "amlodipine",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "898359"
+  },
+  {
+    "code": "617314",
+    "name": "atorvastatin 10 MG Oral Tablet [Lipitor]",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin",
+    "rxnorm": "617314"
+  },
+  {
+    "code": "311353",
+    "name": "lisinopril 2.5 MG Oral Tablet",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "311353"
+  },
+  {
+    "code": "1736854",
+    "name": "Cisplatin 50 MG Injection",
+    "genericName": "cisplatin",
+    "drugClass": "Other",
+    "rxnorm": "1736854"
+  },
+  {
+    "code": "2119714",
+    "name": "5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection",
+    "genericName": "5",
+    "drugClass": "Other",
+    "rxnorm": "2119714"
+  },
+  {
+    "code": "226719",
+    "name": "etoposide 100 MG Injection [Etopophos]",
+    "genericName": "etoposide",
+    "drugClass": "Other",
+    "rxnorm": "226719"
+  },
+  {
+    "code": "261962",
+    "name": "ramipril 10 MG Oral Capsule",
+    "genericName": "ramipril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "261962"
+  },
+  {
+    "code": "483438",
+    "name": "pregabalin 100 MG Oral Capsule",
+    "genericName": "pregabalin",
+    "drugClass": "Anticonvulsant",
+    "rxnorm": "483438"
+  },
+  {
+    "code": "833135",
+    "name": "Milnacipran hydrochloride 100 MG Oral Tablet",
+    "genericName": "milnacipran hydrochloride",
+    "drugClass": "Other",
+    "rxnorm": "833135"
+  },
+  {
+    "code": "596926",
+    "name": "duloxetine 20 MG Delayed Release Oral Capsule",
+    "genericName": "duloxetine",
+    "drugClass": "Other",
+    "rxnorm": "596926"
+  },
+  {
+    "code": "197884",
+    "name": "lisinopril 40 MG Oral Tablet",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "197884"
+  },
+  {
+    "code": "616830",
+    "name": "budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort]",
+    "genericName": "budesonide",
+    "drugClass": "Respiratory",
+    "rxnorm": "616830"
+  },
+  {
+    "code": "749882",
+    "name": "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]",
+    "genericName": "{7",
+    "drugClass": "Contraceptive",
+    "rxnorm": "749882"
+  },
+  {
+    "code": "751616",
+    "name": "nebivolol 10 MG Oral Tablet [Bystolic]",
+    "genericName": "nebivolol",
+    "drugClass": "Other",
+    "rxnorm": "751616"
+  },
+  {
+    "code": "235389",
+    "name": "Mestranol / Norethynodrel",
+    "genericName": "mestranol",
+    "drugClass": "Other",
+    "rxnorm": "235389"
+  },
+  {
+    "code": "197380",
+    "name": "atenolol 25 MG Oral Tablet",
+    "genericName": "atenolol",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "197380"
+  },
+  {
+    "code": "197885",
+    "name": "hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet",
+    "genericName": "hydrochlorothiazide",
+    "drugClass": "ACE Inhibitor",
+    "rxnorm": "197885"
+  },
+  {
+    "code": "1946840",
+    "name": "abemaciclib 100 MG Oral Tablet [Verzenio]",
+    "genericName": "abemaciclib",
+    "drugClass": "Other",
+    "rxnorm": "1946840"
+  },
+  {
+    "code": "309078",
+    "name": "cefpodoxime 200 MG Oral Tablet",
+    "genericName": "cefpodoxime",
+    "drugClass": "Other",
+    "rxnorm": "309078"
+  },
+  {
+    "code": "1999667",
+    "name": "bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet",
+    "genericName": "bictegravir",
+    "drugClass": "Other",
+    "rxnorm": "1999667"
+  },
+  {
+    "code": "1665021",
+    "name": "ceftriaxone 1000 MG Injection",
+    "genericName": "ceftriaxone",
+    "drugClass": "Other",
+    "rxnorm": "1665021"
+  },
+  {
+    "code": "1873983",
+    "name": "ribociclib 200 MG Oral Tablet",
+    "genericName": "ribociclib",
+    "drugClass": "Other",
+    "rxnorm": "1873983"
+  },
+  {
+    "code": "312615",
+    "name": "predniSONE 20 MG Oral Tablet",
+    "genericName": "prednisone",
+    "drugClass": "Corticosteroid",
+    "rxnorm": "312615"
+  },
+  {
+    "code": "313185",
+    "name": "Tacrine 10 MG Oral Capsule",
+    "genericName": "tacrine",
+    "drugClass": "Other",
+    "rxnorm": "313185"
+  },
+  {
+    "code": "284215",
+    "name": "clindamycin 300 MG Oral Capsule",
+    "genericName": "clindamycin",
+    "drugClass": "Other",
+    "rxnorm": "284215"
+  },
+  {
+    "code": "238100",
+    "name": "Lorazepam 2 MG/ML Injectable Solution",
+    "genericName": "lorazepam",
+    "drugClass": "Other",
+    "rxnorm": "238100"
+  },
+  {
+    "code": "859753",
+    "name": "rosuvastatin calcium 20 MG Oral Tablet [Crestor]",
+    "genericName": "rosuvastatin calcium",
+    "drugClass": "Statin",
+    "rxnorm": "859753"
+  },
+  {
+    "code": "861654",
+    "name": "pitavastatin calcium 4 MG Oral Tablet [Livalo]",
+    "genericName": "pitavastatin calcium",
+    "drugClass": "Other",
+    "rxnorm": "861654"
+  },
+  {
+    "code": "200082",
+    "name": "lamivudine 150 MG / zidovudine 300 MG Oral Tablet",
+    "genericName": "lamivudine",
+    "drugClass": "Other",
+    "rxnorm": "200082"
+  },
+  {
+    "code": "403978",
+    "name": "nelfinavir 625 MG Oral Tablet",
+    "genericName": "nelfinavir",
+    "drugClass": "Other",
+    "rxnorm": "403978"
+  },
+  {
+    "code": "349477",
+    "name": "efavirenz 600 MG Oral Tablet",
+    "genericName": "efavirenz",
+    "drugClass": "Other",
+    "rxnorm": "349477"
+  },
+  {
+    "code": "597730",
+    "name": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet",
+    "genericName": "lopinavir",
+    "drugClass": "Other",
+    "rxnorm": "597730"
+  },
+  {
+    "code": "854916",
+    "name": "bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet",
+    "genericName": "bisoprolol fumarate",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "854916"
+  },
+  {
+    "code": "349491",
+    "name": "lamivudine 300 MG Oral Tablet",
+    "genericName": "lamivudine",
+    "drugClass": "Other",
+    "rxnorm": "349491"
+  },
+  {
+    "code": "349251",
+    "name": "tenofovir disoproxil fumarate 300 MG Oral Tablet",
+    "genericName": "tenofovir disoproxil",
+    "drugClass": "Other",
+    "rxnorm": "349251"
+  },
+  {
+    "code": "2003249",
+    "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+    "genericName": "lamivudine",
+    "drugClass": "Other",
+    "rxnorm": "2003249"
+  },
+  {
+    "code": "744842",
+    "name": "raltegravir 400 MG Oral Tablet",
+    "genericName": "raltegravir",
+    "drugClass": "Other",
+    "rxnorm": "744842"
+  },
+  {
+    "code": "854905",
+    "name": "bisoprolol fumarate 5 MG Oral Tablet",
+    "genericName": "bisoprolol fumarate",
+    "drugClass": "Beta Blocker",
+    "rxnorm": "854905"
+  },
+  {
+    "code": "859747",
+    "name": "rosuvastatin calcium 10 MG Oral Tablet",
+    "genericName": "rosuvastatin calcium",
+    "drugClass": "Statin",
+    "rxnorm": "859747"
+  }
+]

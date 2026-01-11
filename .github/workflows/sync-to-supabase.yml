@@ -1,0 +1,220 @@
+name: Sync ERDTS Data to Supabase
+
+on:
+  # Manual trigger with options
+  workflow_dispatch:
+    inputs:
+      patient_limit:
+        description: 'Number of patients to process'
+        required: true
+        default: '2000'
+        type: choice
+        options:
+          - '500'
+          - '1000'
+          - '1500'
+          - '2000'
+      lab_limit:
+        description: 'Max lab records'
+        required: true
+        default: '50000'
+        type: choice
+        options:
+          - '25000'
+          - '50000'
+          - '75000'
+          - '100000'
+      dry_run:
+        description: 'Dry run (validate only, no Supabase write)'
+        required: false
+        default: false
+        type: boolean
+      clear_existing:
+        description: 'Clear existing data before import'
+        required: false
+        default: false
+        type: boolean
+
+  # Trigger on push to main if raw data changes
+  push:
+    branches: [main]
+    paths:
+      - 'data/raw/**'
+      - 'etl/**'
+
+env:
+  PYTHON_VERSION: '3.11'
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+
+jobs:
+  validate:
+    name: Validate Data Files
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Validate existing data files
+        run: |
+          python scripts/validate_data.py --data-dir data
+      
+      - name: Generate statistics
+        run: |
+          python scripts/generate_stats.py --data-dir data --output-file stats.json
+      
+      - name: Upload statistics artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-statistics
+          path: stats.json
+          retention-days: 30
+
+  etl:
+    name: Run ETL Pipeline
+    runs-on: ubuntu-latest
+    needs: validate
+    if: ${{ github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.modified, 'data/raw/') }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Check for raw data
+        id: check_raw
+        run: |
+          if [ -f "data/raw/patients.csv" ]; then
+            echo "raw_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "raw_exists=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Run ETL transformation
+        if: steps.check_raw.outputs.raw_exists == 'true'
+        run: |
+          python etl/transform.py \
+            --input-dir data/raw \
+            --output-dir data \
+            --patient-limit ${{ github.event.inputs.patient_limit || '2000' }} \
+            --lab-limit ${{ github.event.inputs.lab_limit || '50000' }}
+      
+      - name: Validate ETL output
+        run: |
+          python scripts/validate_data.py --data-dir data
+      
+      - name: Upload ETL output
+        uses: actions/upload-artifact@v4
+        with:
+          name: etl-output
+          path: |
+            data/static/*.json
+            data/supabase/*.json
+          retention-days: 7
+
+  push_to_supabase:
+    name: Push to Supabase
+    runs-on: ubuntu-latest
+    needs: [validate, etl]
+    if: ${{ !github.event.inputs.dry_run || github.event.inputs.dry_run == 'false' }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - name: Download ETL output (if generated)
+        uses: actions/download-artifact@v4
+        with:
+          name: etl-output
+          path: data
+        continue-on-error: true
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Verify Supabase credentials
+        run: |
+          if [ -z "$SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_KEY" ]; then
+            echo "❌ Error: Missing Supabase credentials"
+            echo "Please add SUPABASE_URL and SUPABASE_SERVICE_KEY to repository secrets"
+            exit 1
+          fi
+          echo "✅ Supabase credentials found"
+      
+      - name: Push to Supabase
+        run: |
+          python scripts/import_to_supabase.py \
+            --data-dir data/supabase \
+            --supabase-url "$SUPABASE_URL" \
+            --supabase-key "$SUPABASE_SERVICE_KEY" \
+            ${{ github.event.inputs.clear_existing == 'true' && '--clear-existing' || '' }}
+      
+      - name: Verify import
+        run: |
+          python scripts/verify_supabase.py \
+            --supabase-url "$SUPABASE_URL" \
+            --supabase-key "$SUPABASE_SERVICE_KEY"
+
+  summary:
+    name: Generate Summary
+    runs-on: ubuntu-latest
+    needs: [validate, push_to_supabase]
+    if: always()
+    
+    steps:
+      - name: Download statistics
+        uses: actions/download-artifact@v4
+        with:
+          name: data-statistics
+          path: .
+        continue-on-error: true
+      
+      - name: Create summary
+        run: |
+          echo "## ERDTS Data Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Run Configuration" >> $GITHUB_STEP_SUMMARY
+          echo "- **Patient Limit**: ${{ github.event.inputs.patient_limit || '2000' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Lab Limit**: ${{ github.event.inputs.lab_limit || '50000' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Dry Run**: ${{ github.event.inputs.dry_run || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Clear Existing**: ${{ github.event.inputs.clear_existing || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f "stats.json" ]; then
+            echo "### Data Statistics" >> $GITHUB_STEP_SUMMARY
+            echo '```json' >> $GITHUB_STEP_SUMMARY
+            cat stats.json >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi

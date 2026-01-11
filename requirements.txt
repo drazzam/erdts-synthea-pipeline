@@ -1,0 +1,27 @@
+# ERDTS Synthea Pipeline Dependencies
+# Python 3.11+
+
+# Data processing
+pandas>=2.0.0,<3.0.0
+
+# Supabase client
+supabase>=2.0.0,<3.0.0
+
+# Environment management
+python-dotenv>=1.0.0,<2.0.0
+
+# Data validation
+pydantic>=2.0.0,<3.0.0
+
+# Progress bars
+tqdm>=4.65.0,<5.0.0
+
+# HTTP requests (for Supabase)
+httpx>=0.24.0,<1.0.0
+
+# CLI argument parsing (stdlib, but explicit)
+# argparse is built-in
+
+# Testing (optional)
+pytest>=7.0.0,<8.0.0
+pytest-cov>=4.0.0,<5.0.0

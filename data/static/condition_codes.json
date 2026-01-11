@@ -1,0 +1,1822 @@
+[
+  {
+    "code": "37320007",
+    "name": "Loss of teeth",
+    "snomedCode": "37320007",
+    "category": "Other",
+    "prevalence": 0.2
+  },
+  {
+    "code": "224299000",
+    "name": "Received higher education",
+    "snomedCode": "224299000",
+    "category": "Social/Administrative",
+    "prevalence": 0.29
+  },
+  {
+    "code": "59621000",
+    "name": "Essential hypertension",
+    "snomedCode": "59621000",
+    "category": "Cardiovascular",
+    "prevalence": 0.1
+  },
+  {
+    "code": "160903007",
+    "name": "Full-time employment",
+    "snomedCode": "160903007",
+    "category": "Social/Administrative",
+    "prevalence": 0.05
+  },
+  {
+    "code": "446654005",
+    "name": "Refugee (person)",
+    "snomedCode": "446654005",
+    "category": "Other",
+    "prevalence": 0.04
+  },
+  {
+    "code": "73595000",
+    "name": "Stress",
+    "snomedCode": "73595000",
+    "category": "Mental Health",
+    "prevalence": 0.03
+  },
+  {
+    "code": "80583007",
+    "name": "Severe anxiety (panic)",
+    "snomedCode": "80583007",
+    "category": "Mental Health",
+    "prevalence": 0.19
+  },
+  {
+    "code": "423315002",
+    "name": "Limited social contact",
+    "snomedCode": "423315002",
+    "category": "Social/Administrative",
+    "prevalence": 0.27
+  },
+  {
+    "code": "706893006",
+    "name": "Victim of intimate partner abuse",
+    "snomedCode": "706893006",
+    "category": "Social/Administrative",
+    "prevalence": 0.17
+  },
+  {
+    "code": "314529007",
+    "name": "Medication review due",
+    "snomedCode": "314529007",
+    "category": "Social/Administrative",
+    "prevalence": 0.08
+  },
+  {
+    "code": "422650009",
+    "name": "Social isolation",
+    "snomedCode": "422650009",
+    "category": "Social/Administrative",
+    "prevalence": 0.1
+  },
+  {
+    "code": "43878008",
+    "name": "Streptococcal sore throat",
+    "snomedCode": "43878008",
+    "category": "Other",
+    "prevalence": 0.15
+  },
+  {
+    "code": "473461003",
+    "name": "Educated to high school level",
+    "snomedCode": "473461003",
+    "category": "Social/Administrative",
+    "prevalence": 0.2
+  },
+  {
+    "code": "714628002",
+    "name": "Prediabetes",
+    "snomedCode": "714628002",
+    "category": "Endocrine",
+    "prevalence": 0.06
+  },
+  {
+    "code": "271737000",
+    "name": "Anemia",
+    "snomedCode": "271737000",
+    "category": "Blood/Immune",
+    "prevalence": 0.29
+  },
+  {
+    "code": "162864005",
+    "name": "Body mass index 30+ - obesity",
+    "snomedCode": "162864005",
+    "category": "Endocrine",
+    "prevalence": 0.25
+  },
+  {
+    "code": "266948004",
+    "name": "Has a criminal record",
+    "snomedCode": "266948004",
+    "category": "Social/Administrative",
+    "prevalence": 0.01
+  },
+  {
+    "code": "201834006",
+    "name": "Localized  primary osteoarthritis of the hand",
+    "snomedCode": "201834006",
+    "category": "Musculoskeletal",
+    "prevalence": 0.29
+  },
+  {
+    "code": "237602007",
+    "name": "Metabolic syndrome X",
+    "snomedCode": "237602007",
+    "category": "Endocrine",
+    "prevalence": 0.07
+  },
+  {
+    "code": "73438004",
+    "name": "Unemployed",
+    "snomedCode": "73438004",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "109570002",
+    "name": "Primary dental caries",
+    "snomedCode": "109570002",
+    "category": "Other",
+    "prevalence": 0.1
+  },
+  {
+    "code": "444814009",
+    "name": "Viral sinusitis",
+    "snomedCode": "444814009",
+    "category": "Infectious",
+    "prevalence": 0.06
+  },
+  {
+    "code": "160904001",
+    "name": "Part-time employment",
+    "snomedCode": "160904001",
+    "category": "Social/Administrative",
+    "prevalence": 0.04
+  },
+  {
+    "code": "431855005",
+    "name": "Chronic kidney disease stage 1",
+    "snomedCode": "431855005",
+    "category": "Genitourinary",
+    "prevalence": 0.11
+  },
+  {
+    "code": "127013003",
+    "name": "Disorder of kidney due to diabetes mellitus",
+    "snomedCode": "127013003",
+    "category": "Endocrine",
+    "prevalence": 0.15
+  },
+  {
+    "code": "66383009",
+    "name": "Gingivitis",
+    "snomedCode": "66383009",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "18718003",
+    "name": "Gingival disease",
+    "snomedCode": "18718003",
+    "category": "Other",
+    "prevalence": 0.14
+  },
+  {
+    "code": "82423001",
+    "name": "Chronic pain",
+    "snomedCode": "82423001",
+    "category": "Social/Administrative",
+    "prevalence": 0.2
+  },
+  {
+    "code": "278860009",
+    "name": "Chronic low back pain",
+    "snomedCode": "278860009",
+    "category": "Musculoskeletal",
+    "prevalence": 0.2
+  },
+  {
+    "code": "195662009",
+    "name": "Acute viral pharyngitis",
+    "snomedCode": "195662009",
+    "category": "Infectious",
+    "prevalence": 0.11
+  },
+  {
+    "code": "431856006",
+    "name": "Chronic kidney disease stage 2",
+    "snomedCode": "431856006",
+    "category": "Genitourinary",
+    "prevalence": 0.15
+  },
+  {
+    "code": "90781000119102",
+    "name": "Microalbuminuria due to type 2 diabetes mellitus",
+    "snomedCode": "90781000119102",
+    "category": "Endocrine",
+    "prevalence": 0.07
+  },
+  {
+    "code": "741062008",
+    "name": "Not in labor force",
+    "snomedCode": "741062008",
+    "category": "Social/Administrative",
+    "prevalence": 0.08
+  },
+  {
+    "code": "424393004",
+    "name": "Reports of violence in the environment",
+    "snomedCode": "424393004",
+    "category": "Social/Administrative",
+    "prevalence": 0.09
+  },
+  {
+    "code": "414545008",
+    "name": "Ischemic heart disease",
+    "snomedCode": "414545008",
+    "category": "Cardiovascular",
+    "prevalence": 0.24
+  },
+  {
+    "code": "274531002",
+    "name": "Abnormal findings diagnostic imaging heart+coronary circulat",
+    "snomedCode": "274531002",
+    "category": "Cardiovascular",
+    "prevalence": 0.02
+  },
+  {
+    "code": "399261000",
+    "name": "History of coronary artery bypass grafting",
+    "snomedCode": "399261000",
+    "category": "Cardiovascular",
+    "prevalence": 0.12
+  },
+  {
+    "code": "90460009",
+    "name": "Injury of neck",
+    "snomedCode": "90460009",
+    "category": "Other",
+    "prevalence": 0.04
+  },
+  {
+    "code": "39848009",
+    "name": "Whiplash injury to neck",
+    "snomedCode": "39848009",
+    "category": "Other",
+    "prevalence": 0.05
+  },
+  {
+    "code": "278558000",
+    "name": "Dental filling lost",
+    "snomedCode": "278558000",
+    "category": "Social/Administrative",
+    "prevalence": 0.22
+  },
+  {
+    "code": "233678006",
+    "name": "Childhood asthma",
+    "snomedCode": "233678006",
+    "category": "Respiratory",
+    "prevalence": 0.28
+  },
+  {
+    "code": "160968000",
+    "name": "Risk activity involvement",
+    "snomedCode": "160968000",
+    "category": "Social/Administrative",
+    "prevalence": 0.28
+  },
+  {
+    "code": "72892002",
+    "name": "Normal pregnancy",
+    "snomedCode": "72892002",
+    "category": "Pregnancy",
+    "prevalence": 0.29
+  },
+  {
+    "code": "307426000",
+    "name": "Acute infective cystitis",
+    "snomedCode": "307426000",
+    "category": "Genitourinary",
+    "prevalence": 0.01
+  },
+  {
+    "code": "125605004",
+    "name": "Fracture of bone",
+    "snomedCode": "125605004",
+    "category": "Musculoskeletal",
+    "prevalence": 0.21
+  },
+  {
+    "code": "58150001",
+    "name": "Fracture of clavicle",
+    "snomedCode": "58150001",
+    "category": "Musculoskeletal",
+    "prevalence": 0.21
+  },
+  {
+    "code": "10939881000119105",
+    "name": "Unhealthy alcohol drinking behavior",
+    "snomedCode": "10939881000119105",
+    "category": "Social/Administrative",
+    "prevalence": 0.27
+  },
+  {
+    "code": "10509002",
+    "name": "Acute bronchitis",
+    "snomedCode": "10509002",
+    "category": "Respiratory",
+    "prevalence": 0.16
+  },
+  {
+    "code": "384709000",
+    "name": "Sprain (morphologic abnormality)",
+    "snomedCode": "384709000",
+    "category": "Musculoskeletal",
+    "prevalence": 0.25
+  },
+  {
+    "code": "44465007",
+    "name": "Sprain of ankle",
+    "snomedCode": "44465007",
+    "category": "Musculoskeletal",
+    "prevalence": 0.3
+  },
+  {
+    "code": "40055000",
+    "name": "Chronic sinusitis",
+    "snomedCode": "40055000",
+    "category": "Other",
+    "prevalence": 0.21
+  },
+  {
+    "code": "278588009",
+    "name": "Fractured dental filling",
+    "snomedCode": "278588009",
+    "category": "Musculoskeletal",
+    "prevalence": 0.28
+  },
+  {
+    "code": "75498004",
+    "name": "Acute bacterial sinusitis",
+    "snomedCode": "75498004",
+    "category": "Infectious",
+    "prevalence": 0.1
+  },
+  {
+    "code": "239873007",
+    "name": "Osteoarthritis of knee",
+    "snomedCode": "239873007",
+    "category": "Musculoskeletal",
+    "prevalence": 0.07
+  },
+  {
+    "code": "36971009",
+    "name": "Sinusitis",
+    "snomedCode": "36971009",
+    "category": "Other",
+    "prevalence": 0.13
+  },
+  {
+    "code": "105531004",
+    "name": "Housing unsatisfactory",
+    "snomedCode": "105531004",
+    "category": "Social/Administrative",
+    "prevalence": 0.27
+  },
+  {
+    "code": "39898005",
+    "name": "Sleep disorder",
+    "snomedCode": "39898005",
+    "category": "Other",
+    "prevalence": 0.14
+  },
+  {
+    "code": "78275009",
+    "name": "Obstructive sleep apnea syndrome",
+    "snomedCode": "78275009",
+    "category": "Other",
+    "prevalence": 0.25
+  },
+  {
+    "code": "840544004",
+    "name": "Suspected disease caused by Severe acute respiratory coronavirus 2",
+    "snomedCode": "840544004",
+    "category": "Respiratory",
+    "prevalence": 0.01
+  },
+  {
+    "code": "25064002",
+    "name": "Headache",
+    "snomedCode": "25064002",
+    "category": "Social/Administrative",
+    "prevalence": 0.18
+  },
+  {
+    "code": "49727002",
+    "name": "Cough",
+    "snomedCode": "49727002",
+    "category": "Social/Administrative",
+    "prevalence": 0.19
+  },
+  {
+    "code": "386661006",
+    "name": "Fever",
+    "snomedCode": "386661006",
+    "category": "Social/Administrative",
+    "prevalence": 0.24
+  },
+  {
+    "code": "840539006",
+    "name": "Disease caused by severe acute respiratory syndrome coronavirus 2",
+    "snomedCode": "840539006",
+    "category": "Respiratory",
+    "prevalence": 0.19
+  },
+  {
+    "code": "427898007",
+    "name": "Infection of tooth",
+    "snomedCode": "427898007",
+    "category": "Infectious",
+    "prevalence": 0.29
+  },
+  {
+    "code": "61804006",
+    "name": "Alveolitis of jaw",
+    "snomedCode": "61804006",
+    "category": "Other",
+    "prevalence": 0.28
+  },
+  {
+    "code": "161744009",
+    "name": "Past pregnancy history of miscarriage",
+    "snomedCode": "161744009",
+    "category": "Pregnancy",
+    "prevalence": 0.1
+  },
+  {
+    "code": "278598003",
+    "name": "Leaking dental filling",
+    "snomedCode": "278598003",
+    "category": "Social/Administrative",
+    "prevalence": 0.06
+  },
+  {
+    "code": "55822004",
+    "name": "Hyperlipidemia",
+    "snomedCode": "55822004",
+    "category": "Endocrine",
+    "prevalence": 0.3
+  },
+  {
+    "code": "68496003",
+    "name": "Polyp of colon",
+    "snomedCode": "68496003",
+    "category": "Other",
+    "prevalence": 0.09
+  },
+  {
+    "code": "361055000",
+    "name": "Misuses drugs",
+    "snomedCode": "361055000",
+    "category": "Social/Administrative",
+    "prevalence": 0.1
+  },
+  {
+    "code": "312608009",
+    "name": "Laceration - injury",
+    "snomedCode": "312608009",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "284549007",
+    "name": "Laceration of hand",
+    "snomedCode": "284549007",
+    "category": "Other",
+    "prevalence": 0.1
+  },
+  {
+    "code": "19169002",
+    "name": "Miscarriage in first trimester",
+    "snomedCode": "19169002",
+    "category": "Pregnancy",
+    "prevalence": 0.03
+  },
+  {
+    "code": "156073000",
+    "name": "Complete miscarriage",
+    "snomedCode": "156073000",
+    "category": "Pregnancy",
+    "prevalence": 0.06
+  },
+  {
+    "code": "88805009",
+    "name": "Chronic congestive heart failure",
+    "snomedCode": "88805009",
+    "category": "Cardiovascular",
+    "prevalence": 0.17
+  },
+  {
+    "code": "713458007",
+    "name": "Lack of access to transportation",
+    "snomedCode": "713458007",
+    "category": "Social/Administrative",
+    "prevalence": 0.03
+  },
+  {
+    "code": "266934004",
+    "name": "Transport problem",
+    "snomedCode": "266934004",
+    "category": "Social/Administrative",
+    "prevalence": 0.29
+  },
+  {
+    "code": "446096008",
+    "name": "Perennial allergic rhinitis",
+    "snomedCode": "446096008",
+    "category": "Other",
+    "prevalence": 0.25
+  },
+  {
+    "code": "32911000",
+    "name": "Homeless",
+    "snomedCode": "32911000",
+    "category": "Social/Administrative",
+    "prevalence": 0.11
+  },
+  {
+    "code": "40275004",
+    "name": "Contact dermatitis",
+    "snomedCode": "40275004",
+    "category": "Skin",
+    "prevalence": 0.26
+  },
+  {
+    "code": "278602001",
+    "name": "Loose dental filling",
+    "snomedCode": "278602001",
+    "category": "Social/Administrative",
+    "prevalence": 0.07
+  },
+  {
+    "code": "27942005",
+    "name": "Shock",
+    "snomedCode": "27942005",
+    "category": "Other",
+    "prevalence": 0.3
+  },
+  {
+    "code": "90560007",
+    "name": "Gout",
+    "snomedCode": "90560007",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "44054006",
+    "name": "Diabetes mellitus type 2",
+    "snomedCode": "44054006",
+    "category": "Endocrine",
+    "prevalence": 0.29
+  },
+  {
+    "code": "302870006",
+    "name": "Hypertriglyceridemia",
+    "snomedCode": "302870006",
+    "category": "Other",
+    "prevalence": 0.18
+  },
+  {
+    "code": "368581000119106",
+    "name": "Neuropathy due to type 2 diabetes mellitus",
+    "snomedCode": "368581000119106",
+    "category": "Endocrine",
+    "prevalence": 0.15
+  },
+  {
+    "code": "35999006",
+    "name": "Blighted ovum",
+    "snomedCode": "35999006",
+    "category": "Other",
+    "prevalence": 0.06
+  },
+  {
+    "code": "70704007",
+    "name": "Sprain of wrist",
+    "snomedCode": "70704007",
+    "category": "Musculoskeletal",
+    "prevalence": 0.15
+  },
+  {
+    "code": "1551000119108",
+    "name": "Nonproliferative diabetic retinopathy due to type II diabetes mellitus",
+    "snomedCode": "1551000119108",
+    "category": "Endocrine",
+    "prevalence": 0.17
+  },
+  {
+    "code": "284551006",
+    "name": "Laceration of foot",
+    "snomedCode": "284551006",
+    "category": "Other",
+    "prevalence": 0.1
+  },
+  {
+    "code": "307731004",
+    "name": "Injury of tendon of the rotator cuff of shoulder",
+    "snomedCode": "307731004",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "248595008",
+    "name": "Sputum finding",
+    "snomedCode": "248595008",
+    "category": "Social/Administrative",
+    "prevalence": 0.18
+  },
+  {
+    "code": "68962001",
+    "name": "Muscle pain",
+    "snomedCode": "68962001",
+    "category": "Social/Administrative",
+    "prevalence": 0.19
+  },
+  {
+    "code": "57676002",
+    "name": "Joint pain",
+    "snomedCode": "57676002",
+    "category": "Musculoskeletal",
+    "prevalence": 0.1
+  },
+  {
+    "code": "65363002",
+    "name": "Otitis media",
+    "snomedCode": "65363002",
+    "category": "Other",
+    "prevalence": 0.06
+  },
+  {
+    "code": "125601008",
+    "name": "Injury of knee",
+    "snomedCode": "125601008",
+    "category": "Other",
+    "prevalence": 0.22
+  },
+  {
+    "code": "30832001",
+    "name": "Rupture of patellar tendon",
+    "snomedCode": "30832001",
+    "category": "Other",
+    "prevalence": 0.18
+  },
+  {
+    "code": "128613002",
+    "name": "Seizure disorder",
+    "snomedCode": "128613002",
+    "category": "Nervous System",
+    "prevalence": 0.08
+  },
+  {
+    "code": "1290882004",
+    "name": "History of seizure",
+    "snomedCode": "1290882004",
+    "category": "Nervous System",
+    "prevalence": 0.3
+  },
+  {
+    "code": "84757009",
+    "name": "Epilepsy",
+    "snomedCode": "84757009",
+    "category": "Nervous System",
+    "prevalence": 0.1
+  },
+  {
+    "code": "239720000",
+    "name": "Tear of meniscus of knee",
+    "snomedCode": "239720000",
+    "category": "Other",
+    "prevalence": 0.12
+  },
+  {
+    "code": "224295006",
+    "name": "Only received primary school education",
+    "snomedCode": "224295006",
+    "category": "Social/Administrative",
+    "prevalence": 0.27
+  },
+  {
+    "code": "197927001",
+    "name": "Recurrent urinary tract infection",
+    "snomedCode": "197927001",
+    "category": "Genitourinary",
+    "prevalence": 0.09
+  },
+  {
+    "code": "267020005",
+    "name": "History of tubal ligation",
+    "snomedCode": "267020005",
+    "category": "Social/Administrative",
+    "prevalence": 0.17
+  },
+  {
+    "code": "183996000",
+    "name": "Sterilization requested",
+    "snomedCode": "183996000",
+    "category": "Social/Administrative",
+    "prevalence": 0.13
+  },
+  {
+    "code": "65966004",
+    "name": "Fracture of forearm",
+    "snomedCode": "65966004",
+    "category": "Musculoskeletal",
+    "prevalence": 0.15
+  },
+  {
+    "code": "876882001",
+    "name": "Died in hospice",
+    "snomedCode": "876882001",
+    "category": "Social/Administrative",
+    "prevalence": 0.19
+  },
+  {
+    "code": "713197008",
+    "name": "Recurrent rectal polyp",
+    "snomedCode": "713197008",
+    "category": "Other",
+    "prevalence": 0.13
+  },
+  {
+    "code": "109838007",
+    "name": "Overlapping malignant neoplasm of colon",
+    "snomedCode": "109838007",
+    "category": "Oncology",
+    "prevalence": 0.21
+  },
+  {
+    "code": "110030002",
+    "name": "Concussion injury of brain",
+    "snomedCode": "110030002",
+    "category": "Other",
+    "prevalence": 0.3
+  },
+  {
+    "code": "62106007",
+    "name": "Concussion with no loss of consciousness",
+    "snomedCode": "62106007",
+    "category": "Other",
+    "prevalence": 0.04
+  },
+  {
+    "code": "1187604002",
+    "name": "Serving in military service",
+    "snomedCode": "1187604002",
+    "category": "Social/Administrative",
+    "prevalence": 0.24
+  },
+  {
+    "code": "7200002",
+    "name": "Alcoholism",
+    "snomedCode": "7200002",
+    "category": "Other",
+    "prevalence": 0.14
+  },
+  {
+    "code": "315268008",
+    "name": "Suspected prostate cancer",
+    "snomedCode": "315268008",
+    "category": "Oncology",
+    "prevalence": 0.25
+  },
+  {
+    "code": "49436004",
+    "name": "Atrial fibrillation",
+    "snomedCode": "49436004",
+    "category": "Cardiovascular",
+    "prevalence": 0.16
+  },
+  {
+    "code": "196416002",
+    "name": "Impacted molars",
+    "snomedCode": "196416002",
+    "category": "Other",
+    "prevalence": 0.13
+  },
+  {
+    "code": "1121000119107",
+    "name": "Chronic neck pain",
+    "snomedCode": "1121000119107",
+    "category": "Social/Administrative",
+    "prevalence": 0.16
+  },
+  {
+    "code": "80394007",
+    "name": "Hyperglycemia",
+    "snomedCode": "80394007",
+    "category": "Other",
+    "prevalence": 0.05
+  },
+  {
+    "code": "433144002",
+    "name": "Chronic kidney disease stage 3",
+    "snomedCode": "433144002",
+    "category": "Genitourinary",
+    "prevalence": 0.15
+  },
+  {
+    "code": "157141000119108",
+    "name": "Proteinuria due to type 2 diabetes mellitus",
+    "snomedCode": "157141000119108",
+    "category": "Endocrine",
+    "prevalence": 0.12
+  },
+  {
+    "code": "427419006",
+    "name": "Transformed migraine",
+    "snomedCode": "427419006",
+    "category": "Nervous System",
+    "prevalence": 0.02
+  },
+  {
+    "code": "263102004",
+    "name": "Fracture subluxation of wrist",
+    "snomedCode": "263102004",
+    "category": "Musculoskeletal",
+    "prevalence": 0.05
+  },
+  {
+    "code": "84229001",
+    "name": "Fatigue",
+    "snomedCode": "84229001",
+    "category": "Social/Administrative",
+    "prevalence": 0.07
+  },
+  {
+    "code": "431857002",
+    "name": "Chronic kidney disease stage 4",
+    "snomedCode": "431857002",
+    "category": "Genitourinary",
+    "prevalence": 0.1
+  },
+  {
+    "code": "698306007",
+    "name": "Awaiting transplantation of kidney",
+    "snomedCode": "698306007",
+    "category": "Genitourinary",
+    "prevalence": 0.06
+  },
+  {
+    "code": "46177005",
+    "name": "End-stage renal disease",
+    "snomedCode": "46177005",
+    "category": "Genitourinary",
+    "prevalence": 0.09
+  },
+  {
+    "code": "449868002",
+    "name": "Smokes tobacco daily",
+    "snomedCode": "449868002",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "428251008",
+    "name": "History of appendectomy",
+    "snomedCode": "428251008",
+    "category": "Social/Administrative",
+    "prevalence": 0.26
+  },
+  {
+    "code": "398254007",
+    "name": "Pre-eclampsia",
+    "snomedCode": "398254007",
+    "category": "Other",
+    "prevalence": 0.14
+  },
+  {
+    "code": "401314000",
+    "name": "Acute non-ST segment elevation myocardial infarction",
+    "snomedCode": "401314000",
+    "category": "Other",
+    "prevalence": 0.14
+  },
+  {
+    "code": "399211009",
+    "name": "History of myocardial infarction",
+    "snomedCode": "399211009",
+    "category": "Social/Administrative",
+    "prevalence": 0.16
+  },
+  {
+    "code": "161665007",
+    "name": "History of renal transplant",
+    "snomedCode": "161665007",
+    "category": "Genitourinary",
+    "prevalence": 0.04
+  },
+  {
+    "code": "74400008",
+    "name": "Appendicitis",
+    "snomedCode": "74400008",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "283385000",
+    "name": "Laceration of thigh",
+    "snomedCode": "283385000",
+    "category": "Other",
+    "prevalence": 0.16
+  },
+  {
+    "code": "185086009",
+    "name": "Chronic obstructive bronchitis",
+    "snomedCode": "185086009",
+    "category": "Respiratory",
+    "prevalence": 0.07
+  },
+  {
+    "code": "283371005",
+    "name": "Laceration of forearm",
+    "snomedCode": "283371005",
+    "category": "Other",
+    "prevalence": 0.27
+  },
+  {
+    "code": "254837009",
+    "name": "Malignant neoplasm of breast",
+    "snomedCode": "254837009",
+    "category": "Oncology",
+    "prevalence": 0.11
+  },
+  {
+    "code": "64859006",
+    "name": "Osteoporosis",
+    "snomedCode": "64859006",
+    "category": "Musculoskeletal",
+    "prevalence": 0.11
+  },
+  {
+    "code": "33737001",
+    "name": "Fracture of rib",
+    "snomedCode": "33737001",
+    "category": "Musculoskeletal",
+    "prevalence": 0.04
+  },
+  {
+    "code": "370247008",
+    "name": "Facial laceration",
+    "snomedCode": "370247008",
+    "category": "Other",
+    "prevalence": 0.07
+  },
+  {
+    "code": "241929008",
+    "name": "Acute allergic reaction",
+    "snomedCode": "241929008",
+    "category": "Other",
+    "prevalence": 0.11
+  },
+  {
+    "code": "203082005",
+    "name": "Fibromyalgia",
+    "snomedCode": "203082005",
+    "category": "Other",
+    "prevalence": 0.27
+  },
+  {
+    "code": "239872002",
+    "name": "Osteoarthritis of hip",
+    "snomedCode": "239872002",
+    "category": "Musculoskeletal",
+    "prevalence": 0.1
+  },
+  {
+    "code": "367498001",
+    "name": "Seasonal allergic rhinitis",
+    "snomedCode": "367498001",
+    "category": "Other",
+    "prevalence": 0.19
+  },
+  {
+    "code": "192127007",
+    "name": "Child attention deficit disorder",
+    "snomedCode": "192127007",
+    "category": "Other",
+    "prevalence": 0.1
+  },
+  {
+    "code": "62564004",
+    "name": "Concussion with loss of consciousness",
+    "snomedCode": "62564004",
+    "category": "Other",
+    "prevalence": 0.3
+  },
+  {
+    "code": "124171000119105",
+    "name": "Chronic intractable migraine without aura",
+    "snomedCode": "124171000119105",
+    "category": "Nervous System",
+    "prevalence": 0.05
+  },
+  {
+    "code": "24079001",
+    "name": "Atopic dermatitis",
+    "snomedCode": "24079001",
+    "category": "Skin",
+    "prevalence": 0.23
+  },
+  {
+    "code": "48333001",
+    "name": "Burn injury (morphologic abnormality)",
+    "snomedCode": "48333001",
+    "category": "Other",
+    "prevalence": 0.23
+  },
+  {
+    "code": "403190006",
+    "name": "Epidermal burn of skin",
+    "snomedCode": "403190006",
+    "category": "Skin",
+    "prevalence": 0.06
+  },
+  {
+    "code": "22298006",
+    "name": "Myocardial infarction",
+    "snomedCode": "22298006",
+    "category": "Other",
+    "prevalence": 0.27
+  },
+  {
+    "code": "401303003",
+    "name": "Acute ST segment elevation myocardial infarction",
+    "snomedCode": "401303003",
+    "category": "Other",
+    "prevalence": 0.09
+  },
+  {
+    "code": "36955009",
+    "name": "Loss of taste",
+    "snomedCode": "36955009",
+    "category": "Social/Administrative",
+    "prevalence": 0.13
+  },
+  {
+    "code": "233604007",
+    "name": "Pneumonia",
+    "snomedCode": "233604007",
+    "category": "Respiratory",
+    "prevalence": 0.14
+  },
+  {
+    "code": "389087006",
+    "name": "Hypoxemia",
+    "snomedCode": "389087006",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "271825005",
+    "name": "Respiratory distress",
+    "snomedCode": "271825005",
+    "category": "Respiratory",
+    "prevalence": 0.22
+  },
+  {
+    "code": "770349000",
+    "name": "Sepsis caused by virus",
+    "snomedCode": "770349000",
+    "category": "Infectious",
+    "prevalence": 0.13
+  },
+  {
+    "code": "84114007",
+    "name": "Heart failure",
+    "snomedCode": "84114007",
+    "category": "Cardiovascular",
+    "prevalence": 0.26
+  },
+  {
+    "code": "230265002",
+    "name": "Familial Alzheimer's disease of early onset",
+    "snomedCode": "230265002",
+    "category": "Nervous System",
+    "prevalence": 0.26
+  },
+  {
+    "code": "86406008",
+    "name": "Human immunodeficiency virus infection",
+    "snomedCode": "86406008",
+    "category": "Infectious",
+    "prevalence": 0.22
+  },
+  {
+    "code": "161679004",
+    "name": "History of artificial joint",
+    "snomedCode": "161679004",
+    "category": "Musculoskeletal",
+    "prevalence": 0.01
+  },
+  {
+    "code": "267036007",
+    "name": "Dyspnea",
+    "snomedCode": "267036007",
+    "category": "Social/Administrative",
+    "prevalence": 0.07
+  },
+  {
+    "code": "56018004",
+    "name": "Wheezing",
+    "snomedCode": "56018004",
+    "category": "Social/Administrative",
+    "prevalence": 0.07
+  },
+  {
+    "code": "26929004",
+    "name": "Alzheimer's disease",
+    "snomedCode": "26929004",
+    "category": "Nervous System",
+    "prevalence": 0.1
+  },
+  {
+    "code": "127294003",
+    "name": "Traumatic or nontraumatic brain injury",
+    "snomedCode": "127294003",
+    "category": "Other",
+    "prevalence": 0.08
+  },
+  {
+    "code": "198992004",
+    "name": "Eclampsia in pregnancy",
+    "snomedCode": "198992004",
+    "category": "Pregnancy",
+    "prevalence": 0.03
+  },
+  {
+    "code": "91302008",
+    "name": "Sepsis",
+    "snomedCode": "91302008",
+    "category": "Infectious",
+    "prevalence": 0.06
+  },
+  {
+    "code": "16114001",
+    "name": "Fracture of ankle",
+    "snomedCode": "16114001",
+    "category": "Musculoskeletal",
+    "prevalence": 0.07
+  },
+  {
+    "code": "263172003",
+    "name": "Fracture of mandible",
+    "snomedCode": "263172003",
+    "category": "Musculoskeletal",
+    "prevalence": 0.13
+  },
+  {
+    "code": "87433001",
+    "name": "Pulmonary emphysema",
+    "snomedCode": "87433001",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "73430006",
+    "name": "Sleep apnea",
+    "snomedCode": "73430006",
+    "category": "Other",
+    "prevalence": 0.07
+  },
+  {
+    "code": "46752004",
+    "name": "Torus palatinus",
+    "snomedCode": "46752004",
+    "category": "Other",
+    "prevalence": 0.04
+  },
+  {
+    "code": "126906006",
+    "name": "Neoplasm of prostate",
+    "snomedCode": "126906006",
+    "category": "Oncology",
+    "prevalence": 0.04
+  },
+  {
+    "code": "92691004",
+    "name": "Carcinoma in situ of prostate",
+    "snomedCode": "92691004",
+    "category": "Oncology",
+    "prevalence": 0.06
+  },
+  {
+    "code": "60234000",
+    "name": "Aortic valve regurgitation",
+    "snomedCode": "60234000",
+    "category": "Cardiovascular",
+    "prevalence": 0.08
+  },
+  {
+    "code": "1231000119100",
+    "name": "History of aortic valve replacement",
+    "snomedCode": "1231000119100",
+    "category": "Cardiovascular",
+    "prevalence": 0.21
+  },
+  {
+    "code": "312157006",
+    "name": "Infectious mediastinitis",
+    "snomedCode": "312157006",
+    "category": "Other",
+    "prevalence": 0.11
+  },
+  {
+    "code": "443165006",
+    "name": "Osteoporotic fracture of bone",
+    "snomedCode": "443165006",
+    "category": "Musculoskeletal",
+    "prevalence": 0.09
+  },
+  {
+    "code": "232353008",
+    "name": "Perennial allergic rhinitis with seasonal variation",
+    "snomedCode": "232353008",
+    "category": "Other",
+    "prevalence": 0.02
+  },
+  {
+    "code": "6525002",
+    "name": "Dependent drug abuse",
+    "snomedCode": "6525002",
+    "category": "Other",
+    "prevalence": 0.03
+  },
+  {
+    "code": "1149222004",
+    "name": "Overdose",
+    "snomedCode": "1149222004",
+    "category": "Other",
+    "prevalence": 0.2
+  },
+  {
+    "code": "43724002",
+    "name": "Chill",
+    "snomedCode": "43724002",
+    "category": "Social/Administrative",
+    "prevalence": 0.06
+  },
+  {
+    "code": "283545005",
+    "name": "Gunshot wound",
+    "snomedCode": "283545005",
+    "category": "Other",
+    "prevalence": 0.22
+  },
+  {
+    "code": "262574004",
+    "name": "Bullet wound",
+    "snomedCode": "262574004",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "1255252008",
+    "name": "Resorption of alveolar process due to dental trauma",
+    "snomedCode": "1255252008",
+    "category": "Other",
+    "prevalence": 0.07
+  },
+  {
+    "code": "69896004",
+    "name": "Rheumatoid arthritis",
+    "snomedCode": "69896004",
+    "category": "Musculoskeletal",
+    "prevalence": 0.01
+  },
+  {
+    "code": "408512008",
+    "name": "Body mass index 40+ - severely obese",
+    "snomedCode": "408512008",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "422587007",
+    "name": "Nausea",
+    "snomedCode": "422587007",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "249497008",
+    "name": "Vomiting symptom",
+    "snomedCode": "249497008",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "370143000",
+    "name": "Major depressive disorder",
+    "snomedCode": "370143000",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "359817006",
+    "name": "Closed fracture of hip",
+    "snomedCode": "359817006",
+    "category": "Musculoskeletal",
+    "prevalence": 0.03
+  },
+  {
+    "code": "65710008",
+    "name": "Acute respiratory failure",
+    "snomedCode": "65710008",
+    "category": "Respiratory",
+    "prevalence": 0.09
+  },
+  {
+    "code": "132281000119108",
+    "name": "Acute deep venous thrombosis",
+    "snomedCode": "132281000119108",
+    "category": "Other",
+    "prevalence": 0.08
+  },
+  {
+    "code": "76571007",
+    "name": "Septic shock",
+    "snomedCode": "76571007",
+    "category": "Other",
+    "prevalence": 0.03
+  },
+  {
+    "code": "234466008",
+    "name": "Acquired coagulation disorder",
+    "snomedCode": "234466008",
+    "category": "Blood/Immune",
+    "prevalence": 0.14
+  },
+  {
+    "code": "86175003",
+    "name": "Injury of heart",
+    "snomedCode": "86175003",
+    "category": "Cardiovascular",
+    "prevalence": 0.04
+  },
+  {
+    "code": "67782005",
+    "name": "Acute respiratory distress syndrome",
+    "snomedCode": "67782005",
+    "category": "Respiratory",
+    "prevalence": 0.27
+  },
+  {
+    "code": "48724000",
+    "name": "Mitral valve regurgitation",
+    "snomedCode": "48724000",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "363406005",
+    "name": "Malignant neoplasm of colon",
+    "snomedCode": "363406005",
+    "category": "Oncology",
+    "prevalence": 0.22
+  },
+  {
+    "code": "97331000119101",
+    "name": "Macular edema and retinopathy due to type 2 diabetes mellitus",
+    "snomedCode": "97331000119101",
+    "category": "Endocrine",
+    "prevalence": 0.13
+  },
+  {
+    "code": "79586000",
+    "name": "Tubal pregnancy",
+    "snomedCode": "79586000",
+    "category": "Pregnancy",
+    "prevalence": 0.27
+  },
+  {
+    "code": "67787004",
+    "name": "Tongue tie",
+    "snomedCode": "67787004",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "213150003",
+    "name": "Kidney transplant failure and rejection",
+    "snomedCode": "213150003",
+    "category": "Genitourinary",
+    "prevalence": 0.15
+  },
+  {
+    "code": "85116003",
+    "name": "Miscarriage in second trimester",
+    "snomedCode": "85116003",
+    "category": "Pregnancy",
+    "prevalence": 0.18
+  },
+  {
+    "code": "267253006",
+    "name": "Fetus with chromosomal abnormality",
+    "snomedCode": "267253006",
+    "category": "Other",
+    "prevalence": 0.18
+  },
+  {
+    "code": "45816000",
+    "name": "Pyelonephritis",
+    "snomedCode": "45816000",
+    "category": "Other",
+    "prevalence": 0.03
+  },
+  {
+    "code": "230690007",
+    "name": "Cerebrovascular accident",
+    "snomedCode": "230690007",
+    "category": "Other",
+    "prevalence": 0.29
+  },
+  {
+    "code": "706870000",
+    "name": "Acute pulmonary embolism",
+    "snomedCode": "706870000",
+    "category": "Other",
+    "prevalence": 0.25
+  },
+  {
+    "code": "403191005",
+    "name": "Partial thickness burn",
+    "snomedCode": "403191005",
+    "category": "Other",
+    "prevalence": 0.16
+  },
+  {
+    "code": "6072007",
+    "name": "Bleeding from anus",
+    "snomedCode": "6072007",
+    "category": "Other",
+    "prevalence": 0.09
+  },
+  {
+    "code": "236077008",
+    "name": "Protracted diarrhea",
+    "snomedCode": "236077008",
+    "category": "Social/Administrative",
+    "prevalence": 0.14
+  },
+  {
+    "code": "94260004",
+    "name": "Metastatic malignant neoplasm to colon",
+    "snomedCode": "94260004",
+    "category": "Oncology",
+    "prevalence": 0.3
+  },
+  {
+    "code": "60573004",
+    "name": "Aortic valve stenosis",
+    "snomedCode": "60573004",
+    "category": "Cardiovascular",
+    "prevalence": 0.2
+  },
+  {
+    "code": "83664006",
+    "name": "Idiopathic atrophic hypothyroidism",
+    "snomedCode": "83664006",
+    "category": "Endocrine",
+    "prevalence": 0.04
+  },
+  {
+    "code": "94503003",
+    "name": "Metastatic malignant neoplasm to prostate",
+    "snomedCode": "94503003",
+    "category": "Oncology",
+    "prevalence": 0.07
+  },
+  {
+    "code": "36923009",
+    "name": "Major depression  single episode",
+    "snomedCode": "36923009",
+    "category": "Mental Health",
+    "prevalence": 0.26
+  },
+  {
+    "code": "267060006",
+    "name": "Diarrhea symptom",
+    "snomedCode": "267060006",
+    "category": "Social/Administrative",
+    "prevalence": 0.23
+  },
+  {
+    "code": "444470001",
+    "name": "Injury of anterior cruciate ligament",
+    "snomedCode": "444470001",
+    "category": "Other",
+    "prevalence": 0.26
+  },
+  {
+    "code": "47505003",
+    "name": "Posttraumatic stress disorder",
+    "snomedCode": "47505003",
+    "category": "Mental Health",
+    "prevalence": 0.23
+  },
+  {
+    "code": "37849005",
+    "name": "Congenital uterine anomaly",
+    "snomedCode": "37849005",
+    "category": "Other",
+    "prevalence": 0.24
+  },
+  {
+    "code": "93761005",
+    "name": "Primary malignant neoplasm of colon",
+    "snomedCode": "93761005",
+    "category": "Oncology",
+    "prevalence": 0.19
+  },
+  {
+    "code": "262521009",
+    "name": "Traumatic injury of spinal cord and/or vertebral column",
+    "snomedCode": "262521009",
+    "category": "Other",
+    "prevalence": 0.16
+  },
+  {
+    "code": "15724005",
+    "name": "Fracture of vertebral column without spinal cord injury",
+    "snomedCode": "15724005",
+    "category": "Musculoskeletal",
+    "prevalence": 0.05
+  },
+  {
+    "code": "62479008",
+    "name": "Acquired immune deficiency syndrome",
+    "snomedCode": "62479008",
+    "category": "Other",
+    "prevalence": 0.03
+  },
+  {
+    "code": "128302006",
+    "name": "Chronic hepatitis C",
+    "snomedCode": "128302006",
+    "category": "Digestive",
+    "prevalence": 0.26
+  },
+  {
+    "code": "267102003",
+    "name": "Sore throat",
+    "snomedCode": "267102003",
+    "category": "Social/Administrative",
+    "prevalence": 0.11
+  },
+  {
+    "code": "65275009",
+    "name": "Acute cholecystitis",
+    "snomedCode": "65275009",
+    "category": "Genitourinary",
+    "prevalence": 0.08
+  },
+  {
+    "code": "235919008",
+    "name": "Gallbladder calculus",
+    "snomedCode": "235919008",
+    "category": "Genitourinary",
+    "prevalence": 0.14
+  },
+  {
+    "code": "5602001",
+    "name": "Opioid abuse",
+    "snomedCode": "5602001",
+    "category": "Other",
+    "prevalence": 0.28
+  },
+  {
+    "code": "162573006",
+    "name": "Suspected lung cancer",
+    "snomedCode": "162573006",
+    "category": "Respiratory",
+    "prevalence": 0.29
+  },
+  {
+    "code": "254637007",
+    "name": "Non-small cell lung cancer",
+    "snomedCode": "254637007",
+    "category": "Respiratory",
+    "prevalence": 0.14
+  },
+  {
+    "code": "424132000",
+    "name": "Non-small cell carcinoma of lung  TNM stage 1",
+    "snomedCode": "424132000",
+    "category": "Respiratory",
+    "prevalence": 0.1
+  },
+  {
+    "code": "698303004",
+    "name": "Awaiting transplantation of bone marrow",
+    "snomedCode": "698303004",
+    "category": "Social/Administrative",
+    "prevalence": 0.16
+  },
+  {
+    "code": "108631000119101",
+    "name": "History of autologous bone marrow transplant",
+    "snomedCode": "108631000119101",
+    "category": "Social/Administrative",
+    "prevalence": 0.17
+  },
+  {
+    "code": "254632001",
+    "name": "Small cell carcinoma of lung",
+    "snomedCode": "254632001",
+    "category": "Respiratory",
+    "prevalence": 0.01
+  },
+  {
+    "code": "67811000119102",
+    "name": "Primary small cell malignant neoplasm of lung  TNM stage 1",
+    "snomedCode": "67811000119102",
+    "category": "Respiratory",
+    "prevalence": 0.19
+  },
+  {
+    "code": "95417003",
+    "name": "Primary fibromyalgia syndrome",
+    "snomedCode": "95417003",
+    "category": "Other",
+    "prevalence": 0.22
+  },
+  {
+    "code": "444448004",
+    "name": "Injury of medial collateral ligament of knee",
+    "snomedCode": "444448004",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "81629009",
+    "name": "Traumatic dislocation of temporomandibular joint",
+    "snomedCode": "81629009",
+    "category": "Musculoskeletal",
+    "prevalence": 0.02
+  },
+  {
+    "code": "195967001",
+    "name": "Asthma",
+    "snomedCode": "195967001",
+    "category": "Respiratory",
+    "prevalence": 0.03
+  },
+  {
+    "code": "11625007",
+    "name": "Torus mandibularis",
+    "snomedCode": "11625007",
+    "category": "Other",
+    "prevalence": 0.2
+  },
+  {
+    "code": "68235000",
+    "name": "Nasal congestion",
+    "snomedCode": "68235000",
+    "category": "Social/Administrative",
+    "prevalence": 0.28
+  },
+  {
+    "code": "609496007",
+    "name": "Complication occurring during pregnancy",
+    "snomedCode": "609496007",
+    "category": "Pregnancy",
+    "prevalence": 0.19
+  },
+  {
+    "code": "93143009",
+    "name": "Leukemia  disease",
+    "snomedCode": "93143009",
+    "category": "Oncology",
+    "prevalence": 0.1
+  },
+  {
+    "code": "153351000119102",
+    "name": "History of peripheral stem cell transplant",
+    "snomedCode": "153351000119102",
+    "category": "Social/Administrative",
+    "prevalence": 0.21
+  },
+  {
+    "code": "246677007",
+    "name": "Passive conjunctival congestion",
+    "snomedCode": "246677007",
+    "category": "Social/Administrative",
+    "prevalence": 0.2
+  },
+  {
+    "code": "160701002",
+    "name": "Social migrant",
+    "snomedCode": "160701002",
+    "category": "Social/Administrative",
+    "prevalence": 0.26
+  },
+  {
+    "code": "403192003",
+    "name": "Full thickness burn",
+    "snomedCode": "403192003",
+    "category": "Other",
+    "prevalence": 0.28
+  },
+  {
+    "code": "200936003",
+    "name": "Lupus erythematosus",
+    "snomedCode": "200936003",
+    "category": "Other",
+    "prevalence": 0.01
+  },
+  {
+    "code": "128188000",
+    "name": "Cerebral palsy",
+    "snomedCode": "128188000",
+    "category": "Other",
+    "prevalence": 0.1
+  },
+  {
+    "code": "15802004",
+    "name": "Dystonia",
+    "snomedCode": "15802004",
+    "category": "Other",
+    "prevalence": 0.23
+  },
+  {
+    "code": "22253000",
+    "name": "Pain",
+    "snomedCode": "22253000",
+    "category": "Social/Administrative",
+    "prevalence": 0.17
+  },
+  {
+    "code": "398152000",
+    "name": "Poor muscle tone",
+    "snomedCode": "398152000",
+    "category": "Social/Administrative",
+    "prevalence": 0.3
+  },
+  {
+    "code": "221360009",
+    "name": "Spasticity",
+    "snomedCode": "221360009",
+    "category": "Social/Administrative",
+    "prevalence": 0.15
+  },
+  {
+    "code": "110359009",
+    "name": "Intellectual disability",
+    "snomedCode": "110359009",
+    "category": "Other",
+    "prevalence": 0.07
+  },
+  {
+    "code": "235595009",
+    "name": "Gastroesophageal reflux disease",
+    "snomedCode": "235595009",
+    "category": "Digestive",
+    "prevalence": 0.19
+  },
+  {
+    "code": "152621000119105",
+    "name": "History of allotransplantation of bone marrow",
+    "snomedCode": "152621000119105",
+    "category": "Social/Administrative",
+    "prevalence": 0.21
+  },
+  {
+    "code": "1501000119109",
+    "name": "Proliferative diabetic retinopathy due to type II diabetes mellitus",
+    "snomedCode": "1501000119109",
+    "category": "Endocrine",
+    "prevalence": 0.2
+  },
+  {
+    "code": "47693006",
+    "name": "Rupture of appendix",
+    "snomedCode": "47693006",
+    "category": "Other",
+    "prevalence": 0.09
+  },
+  {
+    "code": "4557003",
+    "name": "Preinfarction syndrome",
+    "snomedCode": "4557003",
+    "category": "Other",
+    "prevalence": 0.11
+  }
+]
