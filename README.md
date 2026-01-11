@@ -1,7 +1,6 @@
 # ERDTS Synthea Data Pipeline
 
-A complete data pipeline for generating, transforming, and deploying synthetic patient data from [Synthea](https://github.com/synthetichealth/synthea) to power the **ERDTS (Evidance Research Database Training Simulator)** platform.
-
+A complete data pipeline for generating, transforming, and deploying synthetic patient data from [Synthea](https://github.com/synthetichealth/synthea)
 ---
 
 ## 🏗️ Architecture
